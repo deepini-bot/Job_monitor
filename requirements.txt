@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+lxml
+PyYAML
+python-dotenv
+# Optional, only for pages that need JavaScript:
+# playwright

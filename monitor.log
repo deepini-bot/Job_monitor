@@ -1,0 +1,1568 @@
+2026-10-31 14:02:20,813 INFO Test email sent.
+2026-10-31 14:02:46,118 INFO Found 0 jobs via link heuristics
+2026-10-31 14:02:46,118 WARNING [HPE] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:02:46,329 INFO Found 61 jobs via link heuristics
+2026-10-31 14:02:46,336 INFO [Target] first run: saved 61 jobs as baseline (no email)
+2026-10-31 14:02:46,563 INFO Found 2 jobs via link heuristics
+2026-10-31 14:02:46,569 INFO [IBM] first run: saved 2 jobs as baseline (no email)
+2026-10-31 14:02:47,828 INFO Found 0 jobs via link heuristics
+2026-10-31 14:02:47,829 WARNING [Qualcomm] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:02:48,209 INFO Found 0 jobs via link heuristics
+2026-10-31 14:02:48,209 WARNING [Microsoft] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:02:50,714 INFO Found 3 jobs via link heuristics
+2026-10-31 14:02:50,726 INFO [Google] first run: saved 3 jobs as baseline (no email)
+2026-10-31 14:02:51,567 INFO Found 3 jobs via link heuristics
+2026-10-31 14:02:51,577 INFO [Amazon] first run: saved 3 jobs as baseline (no email)
+2026-10-31 14:02:54,411 INFO Found 0 jobs via link heuristics
+2026-10-31 14:02:54,411 WARNING [Adobe] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:02:54,659 INFO Found 21 jobs via link heuristics
+2026-10-31 14:02:54,665 INFO [Oracle] first run: saved 21 jobs as baseline (no email)
+2026-10-31 14:02:55,039 INFO Found 13 jobs via link heuristics
+2026-10-31 14:02:55,046 INFO [SAP] first run: saved 13 jobs as baseline (no email)
+2026-10-31 14:02:56,876 INFO Found 1 jobs via link heuristics
+2026-10-31 14:02:56,887 INFO [Cisco] first run: saved 1 jobs as baseline (no email)
+2026-10-31 14:02:57,412 ERROR [Dell] could not fetch jobs: 403 Client Error: Forbidden for url: https://jobs.dell.com/
+2026-10-31 14:02:57,545 INFO Found 5 jobs via link heuristics
+2026-10-31 14:02:57,552 INFO [NVIDIA] first run: saved 5 jobs as baseline (no email)
+2026-10-31 14:02:58,551 ERROR [Intel] could not fetch jobs: 403 Client Error: Forbidden for url: https://corpredirect.intel.com/Redirector/404Redirector.aspx?404;https://jobs.intel.com/
+2026-10-31 14:02:59,424 INFO Found 16 jobs via link heuristics
+2026-10-31 14:02:59,432 INFO [Salesforce] first run: saved 16 jobs as baseline (no email)
+2026-10-31 14:03:00,357 INFO Found 16 jobs via link heuristics
+2026-10-31 14:03:00,367 INFO [Atlassian] first run: saved 16 jobs as baseline (no email)
+2026-10-31 14:03:01,683 INFO Found 0 jobs via link heuristics
+2026-10-31 14:03:01,683 WARNING [ABB] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:03:03,039 INFO Found 4 jobs via link heuristics
+2026-10-31 14:03:03,045 INFO [Siemens] first run: saved 4 jobs as baseline (no email)
+2026-10-31 14:03:04,413 INFO Found 7 jobs via link heuristics
+2026-10-31 14:03:04,419 INFO [Bosch] first run: saved 7 jobs as baseline (no email)
+2026-10-31 14:03:07,165 INFO Found 0 jobs via link heuristics
+2026-10-31 14:03:07,166 WARNING [Honeywell] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:03:07,230 ERROR [Schneider Electric] could not fetch jobs: 403 Client Error: Forbidden for url: https://www.se.com/ww/en/about-us/careers/overview.jsp
+2026-10-31 14:03:08,730 INFO Found 0 jobs via link heuristics
+2026-10-31 14:03:08,732 WARNING [GE Aerospace] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:03:09,736 INFO Found 0 jobs via link heuristics
+2026-10-31 14:03:09,737 WARNING [Texas Instruments] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:03:10,085 INFO Found 5 jobs via link heuristics
+2026-10-31 14:03:10,105 INFO [AMD] first run: saved 5 jobs as baseline (no email)
+2026-10-31 14:03:10,853 INFO Found 0 jobs via link heuristics
+2026-10-31 14:03:10,854 WARNING [Micron] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:03:12,191 INFO Found 0 jobs via link heuristics
+2026-10-31 14:03:12,191 WARNING [Applied Materials] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:03:12,253 INFO Found 75 jobs via link heuristics
+2026-10-31 14:03:12,260 INFO [Accenture] first run: saved 75 jobs as baseline (no email)
+2026-10-31 14:03:12,310 ERROR [TCS] could not fetch jobs: 403 Client Error: Forbidden for url: https://www.tcs.com/careers
+2026-10-31 14:03:12,355 ERROR [Infosys] could not fetch jobs: 403 Client Error: Forbidden for url: https://www.infosys.com/careers
+2026-10-31 14:03:14,607 INFO Found 0 jobs via link heuristics
+2026-10-31 14:03:14,607 WARNING [Wipro] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:03:16,229 INFO Found 0 jobs via link heuristics
+2026-10-31 14:03:16,240 WARNING [HCLTech] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:03:16,929 INFO Found 3 jobs via link heuristics
+2026-10-31 14:03:16,938 INFO [Cognizant] first run: saved 3 jobs as baseline (no email)
+2026-10-31 14:03:17,184 INFO Found 16 jobs via link heuristics
+2026-10-31 14:03:17,195 INFO [Capgemini] first run: saved 16 jobs as baseline (no email)
+2026-10-31 14:03:17,593 INFO Found 3 jobs via link heuristics
+2026-10-31 14:03:17,608 INFO [Tech Mahindra] first run: saved 3 jobs as baseline (no email)
+2026-10-31 14:03:18,617 INFO Found 0 jobs via link heuristics
+2026-10-31 14:03:18,617 WARNING [LTIMindtree] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:03:20,756 ERROR [DXC] could not fetch jobs: 404 Client Error: Not Found for url: https://careers.dxc.com/global/en/home
+2026-10-31 14:03:21,534 INFO Found 10 jobs via link heuristics
+2026-10-31 14:03:21,543 INFO [JPMorgan Chase] first run: saved 10 jobs as baseline (no email)
+2026-10-31 14:03:21,835 INFO Found 19 jobs via link heuristics
+2026-10-31 14:03:21,843 INFO [Goldman Sachs] first run: saved 19 jobs as baseline (no email)
+2026-10-31 14:03:22,148 INFO Found 1 jobs via link heuristics
+2026-10-31 14:03:22,159 INFO [Morgan Stanley] first run: saved 1 jobs as baseline (no email)
+2026-10-31 14:03:22,483 ERROR [Visa] could not fetch jobs: 404 Client Error: Not Found for url: https://www.visa.com/careers.html
+2026-10-31 14:03:24,271 INFO Found 0 jobs via link heuristics
+2026-10-31 14:03:24,272 WARNING [Mastercard] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:03:25,072 INFO Found 2 jobs via link heuristics
+2026-10-31 14:03:25,081 INFO [PayPal] first run: saved 2 jobs as baseline (no email)
+2026-10-31 14:03:25,355 INFO Found 0 jobs via link heuristics
+2026-10-31 14:03:25,355 WARNING [Flipkart] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:03:25,477 INFO Found 3 jobs via link heuristics
+2026-10-31 14:03:25,484 INFO [PhonePe] first run: saved 3 jobs as baseline (no email)
+2026-10-31 14:03:25,868 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (31 jobs)
+2026-10-31 14:03:25,878 INFO [Razorpay] first run: saved 31 jobs as baseline (no email)
+2026-10-31 14:03:25,962 INFO Found 1 jobs via link heuristics
+2026-10-31 14:03:25,973 INFO [Zoho] first run: saved 1 jobs as baseline (no email)
+2026-10-31 14:03:27,067 INFO Detected smartrecruiters board 'Freshworks' (125 jobs)
+2026-10-31 14:03:27,075 INFO [Freshworks] first run: saved 125 jobs as baseline (no email)
+2026-10-31 14:03:27,646 INFO Found 0 jobs via link heuristics
+2026-10-31 14:03:27,647 WARNING [Persistent Systems] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:03:27,869 INFO Found 6 jobs via link heuristics
+2026-10-31 14:03:27,876 INFO [Mphasis] first run: saved 6 jobs as baseline (no email)
+2026-10-31 14:03:28,115 INFO Found 6 jobs via link heuristics
+2026-10-31 14:03:28,122 INFO [Genpact] first run: saved 6 jobs as baseline (no email)
+2026-10-31 14:03:28,386 INFO Found 0 jobs via link heuristics
+2026-10-31 14:03:28,386 WARNING [Swiggy] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:14:55,418 INFO Found 0 jobs via link heuristics
+2026-10-31 14:14:55,418 WARNING [HPE] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:14:55,510 INFO Found 61 jobs via link heuristics
+2026-10-31 14:14:55,512 INFO [Target] 61 jobs, nothing new
+2026-10-31 14:14:55,886 INFO Found 2 jobs via link heuristics
+2026-10-31 14:14:55,886 INFO [IBM] 2 jobs, nothing new
+2026-10-31 14:14:56,327 INFO Found 1 jobs via JSON-LD
+2026-10-31 14:14:56,339 INFO [Qualcomm] first run: saved 1 jobs as baseline (no email)
+2026-10-31 14:14:58,822 INFO Found 3 jobs via link heuristics
+2026-10-31 14:14:58,823 INFO [Google] 3 jobs, nothing new
+2026-10-31 14:14:59,650 INFO Found 3 jobs via link heuristics
+2026-10-31 14:14:59,651 INFO [Amazon] 3 jobs, nothing new
+2026-10-31 14:15:01,429 INFO Found 0 jobs via link heuristics
+2026-10-31 14:15:01,429 WARNING [Adobe] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:15:01,599 INFO Found 21 jobs via link heuristics
+2026-10-31 14:15:01,599 INFO [Oracle] 21 jobs, nothing new
+2026-10-31 14:15:01,907 INFO Found 13 jobs via link heuristics
+2026-10-31 14:15:01,907 INFO [SAP] 13 jobs, nothing new
+2026-10-31 14:15:03,081 INFO Found 1 jobs via link heuristics
+2026-10-31 14:15:03,082 INFO [Cisco] 1 jobs, nothing new
+2026-10-31 14:15:03,263 ERROR [Dell] could not fetch jobs: 403 Client Error: Forbidden for url: https://jobs.dell.com/
+2026-10-31 14:15:03,455 INFO Found 5 jobs via link heuristics
+2026-10-31 14:15:03,456 INFO [NVIDIA] 5 jobs, nothing new
+2026-10-31 14:15:04,409 ERROR [Intel] could not fetch jobs: 403 Client Error: Forbidden for url: https://corpredirect.intel.com/Redirector/404Redirector.aspx?404;https://jobs.intel.com/
+2026-10-31 14:15:04,936 INFO Found 16 jobs via link heuristics
+2026-10-31 14:15:04,937 INFO [Salesforce] 16 jobs, nothing new
+2026-10-31 14:15:05,493 INFO Found 16 jobs via link heuristics
+2026-10-31 14:15:05,493 INFO [Atlassian] 16 jobs, nothing new
+2026-10-31 14:15:06,833 INFO Found 0 jobs via link heuristics
+2026-10-31 14:15:06,833 WARNING [ABB] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:15:08,186 INFO Found 4 jobs via link heuristics
+2026-10-31 14:15:08,187 INFO [Siemens] 4 jobs, nothing new
+2026-10-31 14:15:09,295 INFO Found 7 jobs via link heuristics
+2026-10-31 14:15:09,295 INFO [Bosch] 7 jobs, nothing new
+2026-10-31 14:15:10,187 INFO Found 0 jobs via link heuristics
+2026-10-31 14:15:10,187 WARNING [Honeywell] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:15:10,419 INFO Found 5 jobs via link heuristics
+2026-10-31 14:15:10,420 INFO [AMD] 5 jobs, nothing new
+2026-10-31 14:15:12,040 INFO Found 0 jobs via link heuristics
+2026-10-31 14:15:12,041 WARNING [Micron] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:15:12,144 INFO Found 17 jobs via link heuristics
+2026-10-31 14:15:12,152 INFO [Cargill] first run: saved 17 jobs as baseline (no email)
+2026-10-31 14:15:12,241 INFO Found 75 jobs via link heuristics
+2026-10-31 14:15:12,248 INFO [Accenture] 75 jobs, nothing new
+2026-10-31 14:15:12,308 ERROR [TCS] could not fetch jobs: 403 Client Error: Forbidden for url: https://www.tcs.com/careers
+2026-10-31 14:15:12,368 ERROR [Infosys] could not fetch jobs: 403 Client Error: Forbidden for url: https://www.infosys.com/careers
+2026-10-31 14:15:14,405 INFO Found 0 jobs via link heuristics
+2026-10-31 14:15:14,406 WARNING [Wipro] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:15:16,117 INFO Found 0 jobs via link heuristics
+2026-10-31 14:15:16,118 WARNING [HCLTech] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:15:16,738 INFO Found 3 jobs via link heuristics
+2026-10-31 14:15:16,738 INFO [Cognizant] 3 jobs, nothing new
+2026-10-31 14:15:16,897 INFO Found 16 jobs via link heuristics
+2026-10-31 14:15:16,898 INFO [Capgemini] 16 jobs, nothing new
+2026-10-31 14:15:17,280 INFO Found 3 jobs via link heuristics
+2026-10-31 14:15:17,281 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-10-31 14:15:18,297 INFO Found 0 jobs via link heuristics
+2026-10-31 14:15:18,298 WARNING [LTIMindtree] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:15:19,422 ERROR [DXC] could not fetch jobs: 404 Client Error: Not Found for url: https://careers.dxc.com/global/en/home
+2026-10-31 14:15:19,759 INFO Found 10 jobs via link heuristics
+2026-10-31 14:15:19,760 INFO [JPMorgan Chase] 10 jobs, nothing new
+2026-10-31 14:15:20,020 INFO Found 19 jobs via link heuristics
+2026-10-31 14:15:20,021 INFO [Goldman Sachs] 19 jobs, nothing new
+2026-10-31 14:15:20,166 INFO Found 1 jobs via link heuristics
+2026-10-31 14:15:20,167 INFO [Morgan Stanley] 1 jobs, nothing new
+2026-10-31 14:15:20,482 ERROR [Visa] could not fetch jobs: 404 Client Error: Not Found for url: https://www.visa.com/careers.html
+2026-10-31 14:15:22,192 INFO Found 0 jobs via link heuristics
+2026-10-31 14:15:22,193 WARNING [Mastercard] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:15:23,209 INFO Found 2 jobs via link heuristics
+2026-10-31 14:15:23,210 INFO [PayPal] 2 jobs, nothing new
+2026-10-31 14:15:23,337 INFO Found 3 jobs via link heuristics
+2026-10-31 14:15:23,337 INFO [PhonePe] 3 jobs, nothing new
+2026-10-31 14:15:23,756 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (31 jobs)
+2026-10-31 14:15:23,757 INFO [Razorpay] 31 jobs, nothing new
+2026-10-31 14:15:23,839 INFO Found 1 jobs via link heuristics
+2026-10-31 14:15:23,839 INFO [Zoho] 1 jobs, nothing new
+2026-10-31 14:15:24,978 INFO Detected smartrecruiters board 'Freshworks' (125 jobs)
+2026-10-31 14:15:24,980 INFO [Freshworks] 125 jobs, nothing new
+2026-10-31 14:15:25,262 INFO Found 6 jobs via link heuristics
+2026-10-31 14:15:25,263 INFO [Mphasis] 6 jobs, nothing new
+2026-10-31 14:15:25,502 INFO Found 6 jobs via link heuristics
+2026-10-31 14:15:25,503 INFO [Genpact] 6 jobs, nothing new
+2026-10-31 14:16:01,831 INFO Found 0 jobs via link heuristics
+2026-10-31 14:16:01,832 WARNING [HPE] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:16:01,902 INFO Found 61 jobs via link heuristics
+2026-10-31 14:16:01,902 INFO [Target] 61 jobs, nothing new
+2026-10-31 14:16:02,083 INFO Found 2 jobs via link heuristics
+2026-10-31 14:16:02,084 INFO [IBM] 2 jobs, nothing new
+2026-10-31 14:16:03,516 INFO Found 1 jobs via JSON-LD
+2026-10-31 14:16:03,516 INFO [Qualcomm] 1 jobs, nothing new
+2026-10-31 14:16:05,146 INFO Found 3 jobs via link heuristics
+2026-10-31 14:16:05,147 INFO [Google] 3 jobs, nothing new
+2026-10-31 14:16:05,978 INFO Found 3 jobs via link heuristics
+2026-10-31 14:16:05,978 INFO [Amazon] 3 jobs, nothing new
+2026-10-31 14:16:07,022 INFO Found 0 jobs via link heuristics
+2026-10-31 14:16:07,022 WARNING [Adobe] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:16:07,161 INFO Found 21 jobs via link heuristics
+2026-10-31 14:16:07,162 INFO [Oracle] 21 jobs, nothing new
+2026-10-31 14:16:07,489 INFO Found 13 jobs via link heuristics
+2026-10-31 14:16:07,489 INFO [SAP] 13 jobs, nothing new
+2026-10-31 14:16:08,563 INFO Found 1 jobs via link heuristics
+2026-10-31 14:16:08,565 INFO [Cisco] 1 jobs, nothing new
+2026-10-31 14:16:08,623 ERROR [Dell] could not fetch jobs: 403 Client Error: Forbidden for url: https://jobs.dell.com/
+2026-10-31 14:16:08,792 INFO Found 5 jobs via link heuristics
+2026-10-31 14:16:08,793 INFO [NVIDIA] 5 jobs, nothing new
+2026-10-31 14:16:09,463 ERROR [Intel] could not fetch jobs: 403 Client Error: Forbidden for url: https://corpredirect.intel.com/Redirector/404Redirector.aspx?404;https://jobs.intel.com/
+2026-10-31 14:16:10,307 INFO Found 16 jobs via link heuristics
+2026-10-31 14:16:10,308 INFO [Salesforce] 16 jobs, nothing new
+2026-10-31 14:16:11,553 INFO Found 16 jobs via link heuristics
+2026-10-31 14:16:11,554 INFO [Atlassian] 16 jobs, nothing new
+2026-10-31 14:16:12,992 INFO Found 0 jobs via link heuristics
+2026-10-31 14:16:12,993 WARNING [ABB] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:16:14,441 INFO Found 4 jobs via link heuristics
+2026-10-31 14:16:14,442 INFO [Siemens] 4 jobs, nothing new
+2026-10-31 14:16:15,406 INFO Found 7 jobs via link heuristics
+2026-10-31 14:16:15,407 INFO [Bosch] 7 jobs, nothing new
+2026-10-31 14:16:16,172 INFO Found 0 jobs via link heuristics
+2026-10-31 14:16:16,172 WARNING [Honeywell] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:16:16,366 INFO Found 5 jobs via link heuristics
+2026-10-31 14:16:16,367 INFO [AMD] 5 jobs, nothing new
+2026-10-31 14:16:17,101 INFO Found 0 jobs via link heuristics
+2026-10-31 14:16:17,102 WARNING [Micron] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:16:17,174 INFO Found 17 jobs via link heuristics
+2026-10-31 14:16:17,175 INFO [Cargill] 17 jobs, nothing new
+2026-10-31 14:16:17,244 INFO Found 75 jobs via link heuristics
+2026-10-31 14:16:17,244 INFO [Accenture] 75 jobs, nothing new
+2026-10-31 14:16:17,282 ERROR [TCS] could not fetch jobs: 403 Client Error: Forbidden for url: https://www.tcs.com/careers
+2026-10-31 14:16:17,316 ERROR [Infosys] could not fetch jobs: 403 Client Error: Forbidden for url: https://www.infosys.com/careers
+2026-10-31 14:16:18,741 INFO Found 0 jobs via link heuristics
+2026-10-31 14:16:18,742 WARNING [Wipro] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:16:20,415 INFO Found 0 jobs via link heuristics
+2026-10-31 14:16:20,415 WARNING [HCLTech] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:16:21,056 INFO Found 3 jobs via link heuristics
+2026-10-31 14:16:21,056 INFO [Cognizant] 3 jobs, nothing new
+2026-10-31 14:16:21,243 INFO Found 16 jobs via link heuristics
+2026-10-31 14:16:21,243 INFO [Capgemini] 16 jobs, nothing new
+2026-10-31 14:16:21,753 INFO Found 3 jobs via link heuristics
+2026-10-31 14:16:21,753 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-10-31 14:16:22,701 INFO Found 0 jobs via link heuristics
+2026-10-31 14:16:22,702 WARNING [LTIMindtree] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:16:23,724 ERROR [DXC] could not fetch jobs: 404 Client Error: Not Found for url: https://careers.dxc.com/global/en/home
+2026-10-31 14:16:24,299 INFO Found 10 jobs via link heuristics
+2026-10-31 14:16:24,299 INFO [JPMorgan Chase] 10 jobs, nothing new
+2026-10-31 14:16:24,404 INFO Found 19 jobs via link heuristics
+2026-10-31 14:16:24,406 INFO [Goldman Sachs] 19 jobs, nothing new
+2026-10-31 14:16:24,558 INFO Found 1 jobs via link heuristics
+2026-10-31 14:16:24,559 INFO [Morgan Stanley] 1 jobs, nothing new
+2026-10-31 14:16:24,872 ERROR [Visa] could not fetch jobs: 404 Client Error: Not Found for url: https://www.visa.com/careers.html
+2026-10-31 14:16:25,899 INFO Found 0 jobs via link heuristics
+2026-10-31 14:16:25,899 WARNING [Mastercard] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:16:26,601 INFO Found 2 jobs via link heuristics
+2026-10-31 14:16:26,602 INFO [PayPal] 2 jobs, nothing new
+2026-10-31 14:16:26,695 INFO Found 3 jobs via link heuristics
+2026-10-31 14:16:26,695 INFO [PhonePe] 3 jobs, nothing new
+2026-10-31 14:16:27,212 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (31 jobs)
+2026-10-31 14:16:27,212 INFO [Razorpay] 31 jobs, nothing new
+2026-10-31 14:16:27,432 INFO Found 1 jobs via link heuristics
+2026-10-31 14:16:27,432 INFO [Zoho] 1 jobs, nothing new
+2026-10-31 14:16:28,580 INFO Detected smartrecruiters board 'Freshworks' (125 jobs)
+2026-10-31 14:16:28,582 INFO [Freshworks] 125 jobs, nothing new
+2026-10-31 14:16:28,681 INFO Found 6 jobs via link heuristics
+2026-10-31 14:16:28,682 INFO [Mphasis] 6 jobs, nothing new
+2026-10-31 14:16:28,764 INFO Found 6 jobs via link heuristics
+2026-10-31 14:16:28,765 INFO [Genpact] 6 jobs, nothing new
+2026-10-31 14:17:00,411 INFO Found 0 jobs via link heuristics
+2026-10-31 14:17:00,411 WARNING [HPE] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:17:00,481 INFO Found 61 jobs via link heuristics
+2026-10-31 14:17:00,482 INFO [Target] 61 jobs, nothing new
+2026-10-31 14:17:00,696 INFO Found 2 jobs via link heuristics
+2026-10-31 14:17:00,697 INFO [IBM] 2 jobs, nothing new
+2026-10-31 14:17:01,404 INFO Found 1 jobs via JSON-LD
+2026-10-31 14:17:01,405 INFO [Qualcomm] 1 jobs, nothing new
+2026-10-31 14:17:03,869 INFO Found 3 jobs via link heuristics
+2026-10-31 14:17:03,871 INFO [Google] 3 jobs, nothing new
+2026-10-31 14:17:04,766 INFO Found 3 jobs via link heuristics
+2026-10-31 14:17:04,766 INFO [Amazon] 3 jobs, nothing new
+2026-10-31 14:17:05,896 INFO Found 0 jobs via link heuristics
+2026-10-31 14:17:05,896 WARNING [Adobe] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:17:06,089 INFO Found 21 jobs via link heuristics
+2026-10-31 14:17:06,090 INFO [Oracle] 21 jobs, nothing new
+2026-10-31 14:17:06,397 INFO Found 13 jobs via link heuristics
+2026-10-31 14:17:06,397 INFO [SAP] 13 jobs, nothing new
+2026-10-31 14:17:07,107 INFO Found 1 jobs via link heuristics
+2026-10-31 14:17:07,108 INFO [Cisco] 1 jobs, nothing new
+2026-10-31 14:17:07,179 ERROR [Dell] could not fetch jobs: 403 Client Error: Forbidden for url: https://jobs.dell.com/
+2026-10-31 14:17:07,477 INFO Found 5 jobs via link heuristics
+2026-10-31 14:17:07,478 INFO [NVIDIA] 5 jobs, nothing new
+2026-10-31 14:17:08,828 INFO Found 16 jobs via link heuristics
+2026-10-31 14:17:08,829 INFO [Salesforce] 16 jobs, nothing new
+2026-10-31 14:17:09,406 INFO Found 16 jobs via link heuristics
+2026-10-31 14:17:09,407 INFO [Atlassian] 16 jobs, nothing new
+2026-10-31 14:17:10,680 INFO Found 0 jobs via link heuristics
+2026-10-31 14:17:10,681 WARNING [ABB] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:17:12,089 INFO Found 4 jobs via link heuristics
+2026-10-31 14:17:12,090 INFO [Siemens] 4 jobs, nothing new
+2026-10-31 14:17:13,079 INFO Found 7 jobs via link heuristics
+2026-10-31 14:17:13,080 INFO [Bosch] 7 jobs, nothing new
+2026-10-31 14:17:14,136 INFO Found 0 jobs via link heuristics
+2026-10-31 14:17:14,136 WARNING [Honeywell] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:17:14,381 INFO Found 5 jobs via link heuristics
+2026-10-31 14:17:14,381 INFO [AMD] 5 jobs, nothing new
+2026-10-31 14:17:15,150 INFO Found 0 jobs via link heuristics
+2026-10-31 14:17:15,151 WARNING [Micron] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:17:15,249 INFO Found 17 jobs via link heuristics
+2026-10-31 14:17:15,249 INFO [Cargill] 17 jobs, nothing new
+2026-10-31 14:17:15,330 INFO Found 75 jobs via link heuristics
+2026-10-31 14:17:15,331 INFO [Accenture] 75 jobs, nothing new
+2026-10-31 14:17:15,397 ERROR [TCS] could not fetch jobs: 403 Client Error: Forbidden for url: https://www.tcs.com/careers
+2026-10-31 14:17:15,454 ERROR [Infosys] could not fetch jobs: 403 Client Error: Forbidden for url: https://www.infosys.com/careers
+2026-10-31 14:17:16,109 INFO Found 3 jobs via link heuristics
+2026-10-31 14:17:16,109 INFO [Cognizant] 3 jobs, nothing new
+2026-10-31 14:17:16,259 INFO Found 16 jobs via link heuristics
+2026-10-31 14:17:16,260 INFO [Capgemini] 16 jobs, nothing new
+2026-10-31 14:17:16,515 INFO Found 3 jobs via link heuristics
+2026-10-31 14:17:16,515 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-10-31 14:17:17,562 ERROR [DXC] could not fetch jobs: 404 Client Error: Not Found for url: https://careers.dxc.com/global/en/home
+2026-10-31 14:17:17,841 INFO Found 10 jobs via link heuristics
+2026-10-31 14:17:17,842 INFO [JPMorgan Chase] 10 jobs, nothing new
+2026-10-31 14:17:18,014 INFO Found 19 jobs via link heuristics
+2026-10-31 14:17:18,014 INFO [Goldman Sachs] 19 jobs, nothing new
+2026-10-31 14:17:18,160 INFO Found 1 jobs via link heuristics
+2026-10-31 14:17:18,161 INFO [Morgan Stanley] 1 jobs, nothing new
+2026-10-31 14:17:18,503 ERROR [Visa] could not fetch jobs: 404 Client Error: Not Found for url: https://www.visa.com/careers.html
+2026-10-31 14:17:19,397 INFO Found 0 jobs via link heuristics
+2026-10-31 14:17:19,398 WARNING [Mastercard] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:17:20,245 INFO Found 2 jobs via link heuristics
+2026-10-31 14:17:20,245 INFO [PayPal] 2 jobs, nothing new
+2026-10-31 14:17:20,368 INFO Found 3 jobs via link heuristics
+2026-10-31 14:17:20,369 INFO [PhonePe] 3 jobs, nothing new
+2026-10-31 14:17:20,752 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (31 jobs)
+2026-10-31 14:17:20,753 INFO [Razorpay] 31 jobs, nothing new
+2026-10-31 14:17:20,814 INFO Found 1 jobs via link heuristics
+2026-10-31 14:17:20,814 INFO [Zoho] 1 jobs, nothing new
+2026-10-31 14:17:21,941 INFO Detected smartrecruiters board 'Freshworks' (125 jobs)
+2026-10-31 14:17:21,942 INFO [Freshworks] 125 jobs, nothing new
+2026-10-31 14:17:22,010 INFO Found 6 jobs via link heuristics
+2026-10-31 14:17:22,010 INFO [Mphasis] 6 jobs, nothing new
+2026-10-31 14:17:22,080 INFO Found 6 jobs via link heuristics
+2026-10-31 14:17:22,081 INFO [Genpact] 6 jobs, nothing new
+2026-10-31 14:19:01,377 INFO Found 0 jobs via link heuristics
+2026-10-31 14:19:01,377 WARNING [HPE] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:19:01,443 INFO Found 61 jobs via link heuristics
+2026-10-31 14:19:01,444 INFO [Target] 61 jobs, nothing new
+2026-10-31 14:19:01,686 INFO Found 2 jobs via link heuristics
+2026-10-31 14:19:01,687 INFO [IBM] 2 jobs, nothing new
+2026-10-31 14:19:02,181 INFO Found 1 jobs via JSON-LD
+2026-10-31 14:19:02,182 INFO [Qualcomm] 1 jobs, nothing new
+2026-10-31 14:19:04,689 INFO Found 3 jobs via link heuristics
+2026-10-31 14:19:04,689 INFO [Google] 3 jobs, nothing new
+2026-10-31 14:19:05,509 INFO Found 3 jobs via link heuristics
+2026-10-31 14:19:05,510 INFO [Amazon] 3 jobs, nothing new
+2026-10-31 14:19:07,405 INFO Found 0 jobs via link heuristics
+2026-10-31 14:19:07,406 WARNING [Adobe] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:19:07,696 INFO Found 21 jobs via link heuristics
+2026-10-31 14:19:07,697 INFO [Oracle] 21 jobs, nothing new
+2026-10-31 14:19:08,011 INFO Found 13 jobs via link heuristics
+2026-10-31 14:19:08,012 INFO [SAP] 13 jobs, nothing new
+2026-10-31 14:19:09,051 INFO Found 1 jobs via link heuristics
+2026-10-31 14:19:09,051 INFO [Cisco] 1 jobs, nothing new
+2026-10-31 14:19:09,221 INFO Found 5 jobs via link heuristics
+2026-10-31 14:19:09,222 INFO [NVIDIA] 5 jobs, nothing new
+2026-10-31 14:19:10,780 INFO Found 16 jobs via link heuristics
+2026-10-31 14:19:10,780 INFO [Salesforce] 16 jobs, nothing new
+2026-10-31 14:19:11,301 INFO Found 16 jobs via link heuristics
+2026-10-31 14:19:11,302 INFO [Atlassian] 16 jobs, nothing new
+2026-10-31 14:19:12,764 INFO Found 0 jobs via link heuristics
+2026-10-31 14:19:12,765 WARNING [ABB] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:19:14,160 INFO Found 4 jobs via link heuristics
+2026-10-31 14:19:14,161 INFO [Siemens] 4 jobs, nothing new
+2026-10-31 14:19:15,277 INFO Found 7 jobs via link heuristics
+2026-10-31 14:19:15,278 INFO [Bosch] 7 jobs, nothing new
+2026-10-31 14:19:16,559 INFO Found 0 jobs via link heuristics
+2026-10-31 14:19:16,559 WARNING [Honeywell] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:19:16,775 INFO Found 5 jobs via link heuristics
+2026-10-31 14:19:16,775 INFO [AMD] 5 jobs, nothing new
+2026-10-31 14:19:16,846 INFO Found 17 jobs via link heuristics
+2026-10-31 14:19:16,847 INFO [Cargill] 17 jobs, nothing new
+2026-10-31 14:19:16,906 INFO Found 75 jobs via link heuristics
+2026-10-31 14:19:16,907 INFO [Accenture] 75 jobs, nothing new
+2026-10-31 14:19:17,545 INFO Found 3 jobs via link heuristics
+2026-10-31 14:19:17,545 INFO [Cognizant] 3 jobs, nothing new
+2026-10-31 14:19:17,743 INFO Found 16 jobs via link heuristics
+2026-10-31 14:19:17,744 INFO [Capgemini] 16 jobs, nothing new
+2026-10-31 14:19:24,386 INFO Found 3 jobs via link heuristics
+2026-10-31 14:19:24,387 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-10-31 14:19:25,413 ERROR [DXC] could not fetch jobs: 404 Client Error: Not Found for url: https://careers.dxc.com/global/en/home
+2026-10-31 14:19:25,662 INFO Found 10 jobs via link heuristics
+2026-10-31 14:19:25,663 INFO [JPMorgan Chase] 10 jobs, nothing new
+2026-10-31 14:19:25,790 INFO Found 19 jobs via link heuristics
+2026-10-31 14:19:25,791 INFO [Goldman Sachs] 19 jobs, nothing new
+2026-10-31 14:19:25,939 INFO Found 1 jobs via link heuristics
+2026-10-31 14:19:25,939 INFO [Morgan Stanley] 1 jobs, nothing new
+2026-10-31 14:19:26,369 ERROR [Visa] could not fetch jobs: 404 Client Error: Not Found for url: https://www.visa.com/careers.html
+2026-10-31 14:19:27,478 INFO Found 0 jobs via link heuristics
+2026-10-31 14:19:27,479 WARNING [Mastercard] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:19:28,392 INFO Found 2 jobs via link heuristics
+2026-10-31 14:19:28,393 INFO [PayPal] 2 jobs, nothing new
+2026-10-31 14:19:28,510 INFO Found 3 jobs via link heuristics
+2026-10-31 14:19:28,511 INFO [PhonePe] 3 jobs, nothing new
+2026-10-31 14:19:28,911 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (31 jobs)
+2026-10-31 14:19:28,912 INFO [Razorpay] 31 jobs, nothing new
+2026-10-31 14:19:29,036 INFO Found 1 jobs via link heuristics
+2026-10-31 14:19:29,036 INFO [Zoho] 1 jobs, nothing new
+2026-10-31 14:19:30,177 INFO Detected smartrecruiters board 'Freshworks' (125 jobs)
+2026-10-31 14:19:30,178 INFO [Freshworks] 125 jobs, nothing new
+2026-10-31 14:19:30,284 INFO Found 6 jobs via link heuristics
+2026-10-31 14:19:30,284 INFO [Mphasis] 6 jobs, nothing new
+2026-10-31 14:19:30,511 INFO Found 6 jobs via link heuristics
+2026-10-31 14:19:30,512 INFO [Genpact] 6 jobs, nothing new
+2026-10-31 14:34:38,442 INFO Started. Checking every 0.5 hour(s).
+2026-10-31 14:36:02,631 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-10-31 14:36:02,712 INFO [HPE] first run: saved 1000 jobs as baseline (no email)
+2026-10-31 14:37:44,919 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (1000 jobs)
+2026-10-31 14:37:44,921 INFO [Target] 1000 new job(s)
+2026-10-31 14:37:50,536 INFO Found 2 jobs via link heuristics
+2026-10-31 14:37:50,537 INFO [IBM] 2 jobs, nothing new
+2026-10-31 14:37:51,358 INFO Found 1 jobs via JSON-LD
+2026-10-31 14:37:51,359 INFO [Qualcomm] 1 jobs, nothing new
+2026-10-31 14:37:53,999 INFO Found 3 jobs via link heuristics
+2026-10-31 14:37:53,999 INFO [Google] 3 jobs, nothing new
+2026-10-31 14:38:13,345 INFO [Amazon] 1000 new job(s)
+2026-10-31 14:38:19,529 ERROR [Adobe] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-10-31 14:38:19,829 INFO Found 21 jobs via link heuristics
+2026-10-31 14:38:19,829 INFO [Oracle] 21 jobs, nothing new
+2026-10-31 14:38:20,254 INFO Found 13 jobs via link heuristics
+2026-10-31 14:38:20,255 INFO [SAP] 13 jobs, nothing new
+2026-10-31 14:38:21,346 INFO Found 1 jobs via link heuristics
+2026-10-31 14:38:21,347 INFO [Cisco] 1 jobs, nothing new
+2026-10-31 14:38:21,831 INFO Found 5 jobs via link heuristics
+2026-10-31 14:38:21,832 INFO [NVIDIA] 5 jobs, nothing new
+2026-10-31 14:38:23,562 INFO Found 16 jobs via link heuristics
+2026-10-31 14:38:23,562 INFO [Salesforce] 16 jobs, nothing new
+2026-10-31 14:38:24,250 INFO Found 16 jobs via link heuristics
+2026-10-31 14:38:24,250 INFO [Atlassian] 16 jobs, nothing new
+2026-10-31 14:38:25,798 INFO Found 0 jobs via link heuristics
+2026-10-31 14:38:25,799 WARNING [ABB] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:38:27,211 INFO Found 4 jobs via link heuristics
+2026-10-31 14:38:27,211 INFO [Siemens] 4 jobs, nothing new
+2026-10-31 14:38:28,320 INFO Found 7 jobs via link heuristics
+2026-10-31 14:38:28,321 INFO [Bosch] 7 jobs, nothing new
+2026-10-31 14:38:29,110 INFO Found 0 jobs via link heuristics
+2026-10-31 14:38:29,111 WARNING [Honeywell] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-10-31 14:38:29,451 INFO Found 5 jobs via link heuristics
+2026-10-31 14:38:29,452 INFO [AMD] 5 jobs, nothing new
+2026-10-31 14:38:29,551 INFO Found 17 jobs via link heuristics
+2026-10-31 14:38:29,552 INFO [Cargill] 17 jobs, nothing new
+2026-10-31 14:40:04,906 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (999 jobs)
+2026-10-31 14:40:04,909 INFO [Accenture] 999 new job(s)
+2026-10-31 14:40:09,280 INFO Found 3 jobs via link heuristics
+2026-10-31 14:40:09,280 INFO [Cognizant] 3 jobs, nothing new
+2026-10-31 14:40:09,570 INFO Found 16 jobs via link heuristics
+2026-10-31 14:40:09,571 INFO [Capgemini] 16 jobs, nothing new
+2026-10-31 14:40:10,185 INFO Found 3 jobs via link heuristics
+2026-10-31 14:40:10,186 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-10-31 14:40:12,398 ERROR [DXC] could not fetch jobs: 404 Client Error: Not Found for url: https://careers.dxc.com/global/en/home
+2026-10-31 14:40:13,019 INFO Found 10 jobs via link heuristics
+2026-10-31 14:40:13,020 INFO [JPMorgan Chase] 10 jobs, nothing new
+2026-10-31 14:40:13,326 INFO Found 19 jobs via link heuristics
+2026-10-31 14:40:13,327 INFO [Goldman Sachs] 19 jobs, nothing new
+2026-10-31 14:40:13,553 INFO Found 1 jobs via link heuristics
+2026-10-31 14:40:13,553 INFO [Morgan Stanley] 1 jobs, nothing new
+2026-10-31 14:40:13,884 ERROR [Visa] could not fetch jobs: 404 Client Error: Not Found for url: https://www.visa.com/careers.html
+2026-10-31 14:40:14,330 ERROR [Mastercard] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-10-31 14:40:15,154 INFO Found 2 jobs via link heuristics
+2026-10-31 14:40:15,154 INFO [PayPal] 2 jobs, nothing new
+2026-10-31 14:40:16,219 INFO Found 3 jobs via link heuristics
+2026-10-31 14:40:16,220 INFO [PhonePe] 3 jobs, nothing new
+2026-10-31 14:40:16,751 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (31 jobs)
+2026-10-31 14:40:16,752 INFO [Razorpay] 31 jobs, nothing new
+2026-10-31 14:40:16,838 INFO Found 1 jobs via link heuristics
+2026-10-31 14:40:16,839 INFO [Zoho] 1 jobs, nothing new
+2026-10-31 14:40:18,015 INFO Detected smartrecruiters board 'Freshworks' (125 jobs)
+2026-10-31 14:40:18,017 INFO [Freshworks] 125 jobs, nothing new
+2026-10-31 14:40:19,162 INFO Found 6 jobs via link heuristics
+2026-10-31 14:40:19,163 INFO [Mphasis] 6 jobs, nothing new
+2026-10-31 14:41:23,173 INFO Detected workday board 'genpact.wd108.myworkdayjobs.com' (1000 jobs)
+2026-10-31 14:41:23,174 INFO [Genpact] 1000 new job(s)
+2026-10-31 14:49:07,373 INFO Started. Checking every 0.5 hour(s).
+2026-10-31 14:50:30,206 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-10-31 14:50:30,217 INFO [HPE] 1000 jobs, nothing new
+2026-10-31 14:52:12,414 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (1000 jobs)
+2026-10-31 14:52:12,426 INFO [Target] 1000 jobs, nothing new
+2026-10-31 14:52:12,726 INFO Found 2 jobs via link heuristics
+2026-10-31 14:52:12,727 INFO [IBM] 2 jobs, nothing new
+2026-10-31 14:52:13,321 INFO Found 1 jobs via JSON-LD
+2026-10-31 14:52:13,322 INFO [Qualcomm] 1 jobs, nothing new
+2026-10-31 14:52:16,003 INFO Found 3 jobs via link heuristics
+2026-10-31 14:52:16,004 INFO [Google] 3 jobs, nothing new
+2026-10-31 14:52:37,439 INFO [Amazon] 1000 jobs, nothing new
+2026-10-31 14:52:38,033 ERROR [Adobe] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-10-31 14:52:38,306 INFO Found 21 jobs via link heuristics
+2026-10-31 14:52:38,307 INFO [Oracle] 21 jobs, nothing new
+2026-10-31 14:52:38,652 INFO Found 13 jobs via link heuristics
+2026-10-31 14:52:38,653 INFO [SAP] 13 jobs, nothing new
+2026-10-31 14:52:39,936 INFO Found 1 jobs via link heuristics
+2026-10-31 14:52:39,936 INFO [Cisco] 1 jobs, nothing new
+2026-10-31 14:52:40,252 INFO Found 5 jobs via link heuristics
+2026-10-31 14:52:40,252 INFO [NVIDIA] 5 jobs, nothing new
+2026-10-31 14:52:41,163 INFO Found 16 jobs via link heuristics
+2026-10-31 14:52:41,164 INFO [Salesforce] 16 jobs, nothing new
+2026-10-31 14:52:41,991 INFO Found 16 jobs via link heuristics
+2026-10-31 14:52:41,992 INFO [Atlassian] 16 jobs, nothing new
+2026-10-31 14:52:42,382 ERROR [ABB] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-10-31 14:52:43,916 INFO Found 4 jobs via link heuristics
+2026-10-31 14:52:43,917 INFO [Siemens] 4 jobs, nothing new
+2026-10-31 14:52:45,289 INFO Found 7 jobs via link heuristics
+2026-10-31 14:52:45,290 INFO [Bosch] 7 jobs, nothing new
+2026-10-31 14:52:45,673 ERROR [Honeywell] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-10-31 14:52:45,921 INFO Found 5 jobs via link heuristics
+2026-10-31 14:52:45,922 INFO [AMD] 5 jobs, nothing new
+2026-10-31 14:52:46,492 INFO Found 17 jobs via link heuristics
+2026-10-31 14:52:46,493 INFO [Cargill] 17 jobs, nothing new
+2026-10-31 14:54:23,958 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (999 jobs)
+2026-10-31 14:54:23,968 INFO [Accenture] 3 new job(s)
+2026-10-31 14:54:29,461 INFO Found 3 jobs via link heuristics
+2026-10-31 14:54:29,462 INFO [Cognizant] 3 jobs, nothing new
+2026-10-31 14:54:29,715 INFO Found 16 jobs via link heuristics
+2026-10-31 14:54:29,716 INFO [Capgemini] 16 jobs, nothing new
+2026-10-31 14:54:30,031 INFO Found 3 jobs via link heuristics
+2026-10-31 14:54:30,032 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-10-31 14:54:30,310 INFO Found 10 jobs via link heuristics
+2026-10-31 14:54:30,310 INFO [JPMorgan Chase] 10 jobs, nothing new
+2026-10-31 14:54:30,789 INFO Found 19 jobs via link heuristics
+2026-10-31 14:54:30,792 INFO [Goldman Sachs] 19 jobs, nothing new
+2026-10-31 14:54:31,031 INFO Found 1 jobs via link heuristics
+2026-10-31 14:54:31,032 INFO [Morgan Stanley] 1 jobs, nothing new
+2026-10-31 14:55:34,804 INFO Detected workday board 'visa.wd5.myworkdayjobs.com' (837 jobs)
+2026-10-31 14:55:34,822 INFO [Visa] first run: saved 837 jobs as baseline (no email)
+2026-10-31 14:55:35,222 ERROR [Mastercard] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-10-31 14:55:36,213 INFO Found 2 jobs via link heuristics
+2026-10-31 14:55:36,213 INFO [PayPal] 2 jobs, nothing new
+2026-10-31 14:55:37,314 INFO Found 3 jobs via link heuristics
+2026-10-31 14:55:37,315 INFO [PhonePe] 3 jobs, nothing new
+2026-10-31 14:55:37,865 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (31 jobs)
+2026-10-31 14:55:37,866 INFO [Razorpay] 31 jobs, nothing new
+2026-10-31 14:55:37,988 INFO Found 1 jobs via link heuristics
+2026-10-31 14:55:37,989 INFO [Zoho] 1 jobs, nothing new
+2026-10-31 14:55:39,212 INFO Detected smartrecruiters board 'Freshworks' (125 jobs)
+2026-10-31 14:55:39,213 INFO [Freshworks] 125 jobs, nothing new
+2026-10-31 14:55:39,437 INFO Found 6 jobs via link heuristics
+2026-10-31 14:55:39,438 INFO [Mphasis] 6 jobs, nothing new
+2026-10-31 14:56:43,190 INFO Detected workday board 'genpact.wd108.myworkdayjobs.com' (1000 jobs)
+2026-10-31 14:56:43,198 INFO [Genpact] 1000 jobs, nothing new
+2026-10-31 14:56:43,202 INFO Run finished successfully at 2026-10-31 14:56:43
+2026-11-01 12:26:50,087 INFO Started. Checking every 1 hour(s).
+2026-11-01 12:28:18,627 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-01 12:28:18,645 INFO [HPE] 3 new job(s)
+2026-11-01 12:30:07,016 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (999 jobs)
+2026-11-01 12:30:07,417 INFO [Target] 9 new job(s)
+2026-11-01 12:30:12,434 INFO Found 2 jobs via link heuristics
+2026-11-01 12:30:12,438 INFO [IBM] 2 jobs, nothing new
+2026-11-01 12:30:14,227 INFO Found 1 jobs via JSON-LD
+2026-11-01 12:30:14,236 INFO [Qualcomm] 1 jobs, nothing new
+2026-11-01 12:30:17,979 INFO Found 3 jobs via link heuristics
+2026-11-01 12:30:17,981 INFO [Google] 3 jobs, nothing new
+2026-11-01 12:30:40,281 INFO [Amazon] 5 new job(s)
+2026-11-01 12:30:48,150 ERROR [Adobe] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 12:30:48,508 INFO Found 21 jobs via link heuristics
+2026-11-01 12:30:48,510 INFO [Oracle] 21 jobs, nothing new
+2026-11-01 12:30:49,008 INFO Found 13 jobs via link heuristics
+2026-11-01 12:30:49,009 INFO [SAP] 1 new job(s)
+2026-11-01 12:30:54,560 INFO Found 1 jobs via link heuristics
+2026-11-01 12:30:54,562 INFO [Cisco] 1 jobs, nothing new
+2026-11-01 12:30:55,308 INFO Found 5 jobs via link heuristics
+2026-11-01 12:30:55,310 INFO [NVIDIA] 5 jobs, nothing new
+2026-11-01 12:30:56,911 INFO Found 16 jobs via link heuristics
+2026-11-01 12:30:56,912 INFO [Salesforce] 16 jobs, nothing new
+2026-11-01 12:31:04,691 INFO Found 16 jobs via link heuristics
+2026-11-01 12:31:04,698 INFO [Atlassian] 16 jobs, nothing new
+2026-11-01 12:31:05,932 ERROR [ABB] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 12:31:07,421 INFO Found 4 jobs via link heuristics
+2026-11-01 12:31:07,423 INFO [Siemens] 4 jobs, nothing new
+2026-11-01 12:31:09,160 INFO Found 7 jobs via link heuristics
+2026-11-01 12:31:09,163 INFO [Bosch] 7 jobs, nothing new
+2026-11-01 12:31:10,379 ERROR [Honeywell] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 12:31:11,014 INFO Found 5 jobs via link heuristics
+2026-11-01 12:31:11,016 INFO [AMD] 5 jobs, nothing new
+2026-11-01 12:31:11,424 INFO Found 17 jobs via link heuristics
+2026-11-01 12:31:11,426 INFO [Cargill] 17 jobs, nothing new
+2026-11-01 12:32:48,741 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (1000 jobs)
+2026-11-01 12:32:48,764 INFO [Accenture] 77 new job(s)
+2026-11-01 12:32:53,907 INFO Found 3 jobs via link heuristics
+2026-11-01 12:32:53,909 INFO [Cognizant] 3 jobs, nothing new
+2026-11-01 12:32:54,910 INFO Found 16 jobs via link heuristics
+2026-11-01 12:32:54,912 INFO [Capgemini] 16 jobs, nothing new
+2026-11-01 12:32:55,842 INFO Found 3 jobs via link heuristics
+2026-11-01 12:32:55,844 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-11-01 12:32:56,092 INFO Found 10 jobs via link heuristics
+2026-11-01 12:32:56,093 INFO [JPMorgan Chase] 10 jobs, nothing new
+2026-11-01 12:32:57,440 INFO Found 19 jobs via link heuristics
+2026-11-01 12:32:57,443 INFO [Goldman Sachs] 19 jobs, nothing new
+2026-11-01 12:32:58,510 INFO Found 1 jobs via link heuristics
+2026-11-01 12:32:58,513 INFO [Morgan Stanley] 1 jobs, nothing new
+2026-11-01 12:34:05,112 INFO Detected workday board 'visa.wd5.myworkdayjobs.com' (836 jobs)
+2026-11-01 12:34:05,127 INFO [Visa] 836 jobs, nothing new
+2026-11-01 12:34:07,269 ERROR [Mastercard] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 12:34:08,607 INFO Found 2 jobs via link heuristics
+2026-11-01 12:34:08,609 INFO [PayPal] 2 jobs, nothing new
+2026-11-01 12:34:23,825 INFO Found 3 jobs via link heuristics
+2026-11-01 12:34:24,141 INFO [PhonePe] 3 jobs, nothing new
+2026-11-01 12:34:27,020 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (31 jobs)
+2026-11-01 12:34:27,024 INFO [Razorpay] 31 jobs, nothing new
+2026-11-01 12:34:27,207 INFO Found 1 jobs via link heuristics
+2026-11-01 12:34:27,223 INFO [Zoho] 1 jobs, nothing new
+2026-11-01 12:34:29,015 INFO Detected smartrecruiters board 'Freshworks' (125 jobs)
+2026-11-01 12:34:29,017 INFO [Freshworks] 125 jobs, nothing new
+2026-11-01 12:34:29,330 INFO Found 6 jobs via link heuristics
+2026-11-01 12:34:29,332 INFO [Mphasis] 6 jobs, nothing new
+2026-11-01 12:35:33,446 INFO Detected workday board 'genpact.wd108.myworkdayjobs.com' (1000 jobs)
+2026-11-01 12:35:33,473 INFO [Genpact] 1 new job(s)
+2026-11-01 12:35:37,445 INFO Run finished successfully at 2026-11-01 12:35:37
+2026-11-01 13:40:19,389 ERROR [HPE] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 13:42:06,072 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (999 jobs)
+2026-11-01 13:42:06,085 INFO [Target] 999 jobs, nothing new
+2026-11-01 13:42:06,439 INFO Found 2 jobs via link heuristics
+2026-11-01 13:42:06,440 INFO [IBM] 2 jobs, nothing new
+2026-11-01 13:42:07,222 INFO Found 1 jobs via JSON-LD
+2026-11-01 13:42:07,223 INFO [Qualcomm] 1 jobs, nothing new
+2026-11-01 13:42:10,135 INFO Found 3 jobs via link heuristics
+2026-11-01 13:42:10,137 INFO [Google] 3 jobs, nothing new
+2026-11-01 13:42:27,902 INFO [Amazon] 1000 jobs, nothing new
+2026-11-01 13:42:28,997 ERROR [Adobe] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 13:42:29,811 INFO Found 21 jobs via link heuristics
+2026-11-01 13:42:29,812 INFO [Oracle] 21 jobs, nothing new
+2026-11-01 13:42:30,364 INFO Found 13 jobs via link heuristics
+2026-11-01 13:42:30,368 INFO [SAP] 13 jobs, nothing new
+2026-11-01 13:42:31,998 INFO Found 1 jobs via link heuristics
+2026-11-01 13:42:31,999 INFO [Cisco] 1 jobs, nothing new
+2026-11-01 13:42:32,596 INFO Found 5 jobs via link heuristics
+2026-11-01 13:42:32,597 INFO [NVIDIA] 5 jobs, nothing new
+2026-11-01 13:42:33,572 INFO Found 16 jobs via link heuristics
+2026-11-01 13:42:33,573 INFO [Salesforce] 16 jobs, nothing new
+2026-11-01 13:42:34,450 INFO Found 16 jobs via link heuristics
+2026-11-01 13:42:34,451 INFO [Atlassian] 16 jobs, nothing new
+2026-11-01 13:42:35,134 ERROR [ABB] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 13:42:36,742 INFO Found 4 jobs via link heuristics
+2026-11-01 13:42:36,743 INFO [Siemens] 4 jobs, nothing new
+2026-11-01 13:42:38,182 INFO Found 7 jobs via link heuristics
+2026-11-01 13:42:38,184 INFO [Bosch] 7 jobs, nothing new
+2026-11-01 13:42:38,847 ERROR [Honeywell] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 13:42:39,159 INFO Found 5 jobs via link heuristics
+2026-11-01 13:42:39,161 INFO [AMD] 5 jobs, nothing new
+2026-11-01 13:42:39,596 INFO Found 17 jobs via link heuristics
+2026-11-01 13:42:39,598 INFO [Cargill] 17 jobs, nothing new
+2026-11-01 13:44:18,028 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (1000 jobs)
+2026-11-01 13:44:18,045 INFO [Accenture] 1 new job(s)
+2026-11-01 13:44:23,313 INFO Found 3 jobs via link heuristics
+2026-11-01 13:44:23,315 INFO [Cognizant] 3 jobs, nothing new
+2026-11-01 13:44:23,728 INFO Found 16 jobs via link heuristics
+2026-11-01 13:44:23,729 INFO [Capgemini] 16 jobs, nothing new
+2026-11-01 13:44:24,490 INFO Found 3 jobs via link heuristics
+2026-11-01 13:44:24,491 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-11-01 13:44:24,838 INFO Found 10 jobs via link heuristics
+2026-11-01 13:44:24,839 INFO [JPMorgan Chase] 10 jobs, nothing new
+2026-11-01 13:44:25,313 INFO Found 19 jobs via link heuristics
+2026-11-01 13:44:25,316 INFO [Goldman Sachs] 19 jobs, nothing new
+2026-11-01 13:44:25,785 INFO Found 1 jobs via link heuristics
+2026-11-01 13:44:25,787 INFO [Morgan Stanley] 1 jobs, nothing new
+2026-11-01 13:45:33,458 INFO Detected workday board 'visa.wd5.myworkdayjobs.com' (836 jobs)
+2026-11-01 13:45:33,473 INFO [Visa] 836 jobs, nothing new
+2026-11-01 13:45:34,216 ERROR [Mastercard] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 13:45:35,271 INFO Found 2 jobs via link heuristics
+2026-11-01 13:45:35,272 INFO [PayPal] 2 jobs, nothing new
+2026-11-01 13:45:37,218 INFO Found 3 jobs via link heuristics
+2026-11-01 13:45:37,220 INFO [PhonePe] 3 jobs, nothing new
+2026-11-01 13:45:37,916 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (31 jobs)
+2026-11-01 13:45:37,917 INFO [Razorpay] 31 jobs, nothing new
+2026-11-01 13:45:38,027 INFO Found 1 jobs via link heuristics
+2026-11-01 13:45:38,029 INFO [Zoho] 1 jobs, nothing new
+2026-11-01 13:45:39,541 INFO Detected smartrecruiters board 'Freshworks' (125 jobs)
+2026-11-01 13:45:39,543 INFO [Freshworks] 125 jobs, nothing new
+2026-11-01 13:45:39,779 INFO Found 6 jobs via link heuristics
+2026-11-01 13:45:39,780 INFO [Mphasis] 6 jobs, nothing new
+2026-11-01 13:46:48,156 INFO Detected workday board 'genpact.wd108.myworkdayjobs.com' (1000 jobs)
+2026-11-01 13:46:48,174 INFO [Genpact] 1000 jobs, nothing new
+2026-11-01 13:46:48,178 INFO Run finished successfully at 2026-11-01 13:46:48
+2026-11-01 14:48:14,931 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-01 14:48:14,947 INFO [HPE] 1 new job(s)
+2026-11-01 14:50:02,034 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-01 14:50:02,047 INFO [Target] 1 new job(s)
+2026-11-01 14:50:06,124 INFO Found 2 jobs via link heuristics
+2026-11-01 14:50:06,125 INFO [IBM] 2 jobs, nothing new
+2026-11-01 14:50:06,726 INFO Found 1 jobs via JSON-LD
+2026-11-01 14:50:06,726 INFO [Qualcomm] 1 jobs, nothing new
+2026-11-01 14:50:09,421 INFO Found 3 jobs via link heuristics
+2026-11-01 14:50:09,421 INFO [Google] 3 jobs, nothing new
+2026-11-01 14:50:30,019 INFO [Amazon] 2 new job(s)
+2026-11-01 14:50:34,056 ERROR [Adobe] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 14:50:34,309 INFO Found 21 jobs via link heuristics
+2026-11-01 14:50:34,310 INFO [Oracle] 21 jobs, nothing new
+2026-11-01 14:50:34,842 INFO Found 13 jobs via link heuristics
+2026-11-01 14:50:34,844 INFO [SAP] 13 jobs, nothing new
+2026-11-01 14:50:36,131 INFO Found 1 jobs via link heuristics
+2026-11-01 14:50:36,131 INFO [Cisco] 1 jobs, nothing new
+2026-11-01 14:50:36,514 INFO Found 5 jobs via link heuristics
+2026-11-01 14:50:36,514 INFO [NVIDIA] 5 jobs, nothing new
+2026-11-01 14:50:37,503 INFO Found 16 jobs via link heuristics
+2026-11-01 14:50:37,504 INFO [Salesforce] 16 jobs, nothing new
+2026-11-01 14:50:44,501 INFO Found 16 jobs via link heuristics
+2026-11-01 14:50:44,501 INFO [Atlassian] 16 jobs, nothing new
+2026-11-01 14:50:44,889 ERROR [ABB] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 14:50:46,315 INFO Found 4 jobs via link heuristics
+2026-11-01 14:50:46,315 INFO [Siemens] 4 jobs, nothing new
+2026-11-01 14:50:47,295 INFO Found 7 jobs via link heuristics
+2026-11-01 14:50:47,298 INFO [Bosch] 7 jobs, nothing new
+2026-11-01 14:50:47,670 ERROR [Honeywell] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 14:50:47,913 INFO Found 5 jobs via link heuristics
+2026-11-01 14:50:47,913 INFO [AMD] 5 jobs, nothing new
+2026-11-01 14:50:48,188 INFO Found 17 jobs via link heuristics
+2026-11-01 14:50:48,188 INFO [Cargill] 17 jobs, nothing new
+2026-11-01 14:52:24,505 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (1000 jobs)
+2026-11-01 14:52:24,518 INFO [Accenture] 2 new job(s)
+2026-11-01 14:52:28,763 INFO Found 3 jobs via link heuristics
+2026-11-01 14:52:28,764 INFO [Cognizant] 3 jobs, nothing new
+2026-11-01 14:52:29,034 INFO Found 16 jobs via link heuristics
+2026-11-01 14:52:29,034 INFO [Capgemini] 16 jobs, nothing new
+2026-11-01 14:52:29,488 INFO Found 3 jobs via link heuristics
+2026-11-01 14:52:29,489 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-11-01 14:52:30,132 INFO Found 10 jobs via link heuristics
+2026-11-01 14:52:30,132 INFO [JPMorgan Chase] 10 jobs, nothing new
+2026-11-01 14:52:30,466 INFO Found 19 jobs via link heuristics
+2026-11-01 14:52:30,469 INFO [Goldman Sachs] 19 jobs, nothing new
+2026-11-01 14:52:30,782 INFO Found 1 jobs via link heuristics
+2026-11-01 14:52:30,783 INFO [Morgan Stanley] 1 jobs, nothing new
+2026-11-01 14:53:32,400 INFO Detected workday board 'visa.wd5.myworkdayjobs.com' (836 jobs)
+2026-11-01 14:53:32,406 INFO [Visa] 836 jobs, nothing new
+2026-11-01 14:53:32,817 ERROR [Mastercard] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 14:53:33,592 INFO Found 2 jobs via link heuristics
+2026-11-01 14:53:33,593 INFO [PayPal] 2 jobs, nothing new
+2026-11-01 14:53:34,663 INFO Found 3 jobs via link heuristics
+2026-11-01 14:53:34,664 INFO [PhonePe] 3 jobs, nothing new
+2026-11-01 14:53:35,177 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (31 jobs)
+2026-11-01 14:53:35,179 INFO [Razorpay] 31 jobs, nothing new
+2026-11-01 14:53:35,256 INFO Found 1 jobs via link heuristics
+2026-11-01 14:53:35,256 INFO [Zoho] 1 jobs, nothing new
+2026-11-01 14:53:36,689 INFO Detected smartrecruiters board 'Freshworks' (125 jobs)
+2026-11-01 14:53:36,690 INFO [Freshworks] 125 jobs, nothing new
+2026-11-01 14:53:37,523 INFO Found 6 jobs via link heuristics
+2026-11-01 14:53:37,524 INFO [Mphasis] 6 jobs, nothing new
+2026-11-01 14:54:40,720 INFO Detected workday board 'genpact.wd108.myworkdayjobs.com' (1000 jobs)
+2026-11-01 14:54:40,732 INFO [Genpact] 1000 jobs, nothing new
+2026-11-01 14:54:40,734 INFO Run finished successfully at 2026-11-01 14:54:40
+2026-11-01 15:12:36,991 INFO Started. Checking every 3 hour(s).
+2026-11-01 15:14:02,037 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-01 15:14:02,052 INFO [HPE] 128 jobs, nothing new
+2026-11-01 15:15:43,669 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-01 15:15:43,678 INFO [Target] 5 jobs, nothing new
+2026-11-01 15:15:43,898 INFO Found 2 jobs via link heuristics
+2026-11-01 15:15:43,898 WARNING [IBM] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:15:44,489 INFO Found 1 jobs via JSON-LD
+2026-11-01 15:15:44,490 WARNING [Qualcomm] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:15:47,145 INFO Found 3 jobs via link heuristics
+2026-11-01 15:15:47,146 WARNING [Google] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:16:07,737 INFO [Amazon] 120 jobs, nothing new
+2026-11-01 15:16:08,360 ERROR [Adobe] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:16:08,662 INFO Found 21 jobs via link heuristics
+2026-11-01 15:16:08,662 WARNING [Oracle] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:16:09,077 INFO Found 13 jobs via link heuristics
+2026-11-01 15:16:09,078 INFO [SAP] 1 jobs, nothing new
+2026-11-01 15:16:10,139 INFO Found 1 jobs via link heuristics
+2026-11-01 15:16:10,139 WARNING [Cisco] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:16:10,486 INFO Found 5 jobs via link heuristics
+2026-11-01 15:16:10,487 WARNING [NVIDIA] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:16:11,324 INFO Found 16 jobs via link heuristics
+2026-11-01 15:16:11,324 WARNING [Salesforce] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:16:12,004 INFO Found 16 jobs via link heuristics
+2026-11-01 15:16:12,004 WARNING [Atlassian] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:16:12,365 ERROR [ABB] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:16:13,836 INFO Found 4 jobs via link heuristics
+2026-11-01 15:16:13,837 WARNING [Siemens] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:16:14,996 INFO Found 7 jobs via link heuristics
+2026-11-01 15:16:14,996 WARNING [Bosch] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:16:15,343 ERROR [Honeywell] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:16:15,851 INFO Found 5 jobs via link heuristics
+2026-11-01 15:16:15,852 WARNING [AMD] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:16:16,059 INFO Found 17 jobs via link heuristics
+2026-11-01 15:16:16,061 INFO [Cargill] 3 jobs, nothing new
+2026-11-01 15:19:11,893 INFO Started. Checking every 3 hour(s).
+2026-11-01 15:20:37,594 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-01 15:20:37,612 INFO [HPE] 128 jobs, nothing new
+2026-11-01 15:20:38,193 ERROR [Target] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:20:38,558 ERROR [IBM] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:20:38,942 ERROR [Qualcomm] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:20:39,335 ERROR [Google] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:20:59,489 INFO [Amazon] 120 jobs, nothing new
+2026-11-01 15:20:59,875 ERROR [Adobe] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:00,226 ERROR [Oracle] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:00,576 ERROR [SAP] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:00,921 ERROR [Cisco] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:01,260 ERROR [NVIDIA] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:01,651 ERROR [Salesforce] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:02,012 ERROR [Atlassian] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:02,404 ERROR [ABB] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:02,751 ERROR [Siemens] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:03,111 ERROR [Bosch] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:03,459 ERROR [Honeywell] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:03,821 ERROR [AMD] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:04,165 ERROR [Cargill] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:04,504 ERROR [Accenture] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:04,875 ERROR [Cognizant] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:05,238 ERROR [Capgemini] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:05,587 ERROR [Tech Mahindra] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:05,942 ERROR [JPMorgan Chase] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:06,296 ERROR [Goldman Sachs] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:21:06,638 ERROR [Morgan Stanley] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:09,909 INFO Detected workday board 'visa.wd5.myworkdayjobs.com' (836 jobs)
+2026-11-01 15:22:09,922 INFO [Visa] 101 jobs, nothing new
+2026-11-01 15:22:10,294 ERROR [Mastercard] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:10,672 ERROR [PayPal] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:11,043 ERROR [PhonePe] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:11,402 ERROR [Razorpay] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:11,763 ERROR [Zoho] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:12,127 ERROR [Freshworks] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:12,484 ERROR [Mphasis] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:12,849 ERROR [Genpact] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:13,203 ERROR [Rubrick] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:16,261 INFO Detected workday board 'kyndryl.wd5.myworkdayjobs.com' (30 jobs)
+2026-11-01 15:22:16,284 INFO [Kyndryl] first run: saved 1 jobs as baseline (no email)
+2026-11-01 15:22:16,653 ERROR [Ericsson] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:17,070 ERROR [Philips] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:17,440 ERROR [Wells Fargo] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:17,854 ERROR [Stripe] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:18,252 ERROR [Myntra] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:23,718 INFO Detected workday board 'jiostar.wd102.myworkdayjobs.com' (231 jobs)
+2026-11-01 15:22:23,729 INFO [Jio] first run: saved 73 jobs as baseline (no email)
+2026-11-01 15:22:24,118 ERROR [Cohesity] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:24,477 ERROR [Akamai] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:24,840 ERROR [NatWest Group] could not fetch jobs: BrowserType.launch: Executable doesn't exist at C:\Users\deepi\AppData\Local\ms-playwright\chromium_headless_shell-1248\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+2026-11-01 15:22:24,841 INFO Run finished successfully at 2026-11-01 15:22:24
+2026-11-01 15:34:55,511 INFO Started. Checking every 3 hour(s).
+2026-11-01 15:36:22,410 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-01 15:36:22,427 INFO [HPE] 128 jobs, nothing new
+2026-11-01 15:38:18,342 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-01 15:38:18,361 INFO [Target] 5 jobs, nothing new
+2026-11-01 15:39:19,663 ERROR [IBM] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.ibm.com/in-en/careers/search", waiting until "networkidle"
+
+2026-11-01 15:39:28,780 INFO Found 1 jobs via JSON-LD
+2026-11-01 15:39:28,781 WARNING [Qualcomm] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:39:35,175 INFO Found 3 jobs via link heuristics
+2026-11-01 15:39:35,176 WARNING [Google] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:39:56,623 INFO [Amazon] 120 jobs, nothing new
+2026-11-01 15:40:23,948 INFO Detected workday board 'adobe.wd5.myworkdayjobs.com' (278 jobs)
+2026-11-01 15:40:23,970 INFO [Adobe] first run: saved 24 jobs as baseline (no email)
+2026-11-01 15:41:25,053 ERROR [Oracle] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.oracle.com/in/corporate/careers/", waiting until "networkidle"
+
+2026-11-01 15:41:29,170 INFO Found 13 jobs via link heuristics
+2026-11-01 15:41:29,176 INFO [SAP] 1 jobs, nothing new
+2026-11-01 15:41:36,769 INFO Found 3 jobs via link heuristics
+2026-11-01 15:41:36,770 WARNING [Cisco] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:41:39,360 INFO Found 20 jobs via link heuristics
+2026-11-01 15:41:39,361 WARNING [NVIDIA] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:41:41,234 INFO Found 0 jobs via link heuristics
+2026-11-01 15:41:41,234 WARNING [Salesforce] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:42:41,869 ERROR [Atlassian] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.atlassian.com/company/careers", waiting until "networkidle"
+
+2026-11-01 15:43:25,043 INFO Found 0 jobs via link heuristics
+2026-11-01 15:43:25,044 WARNING [ABB] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:44:18,131 INFO Started. Checking every 3 hour(s).
+2026-11-01 15:45:44,595 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-01 15:45:44,606 INFO [HPE] 1000 jobs, nothing new
+2026-11-01 15:47:35,713 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-01 15:47:35,722 INFO [Target] 1000 jobs, nothing new
+2026-11-01 15:48:36,630 ERROR [IBM] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.ibm.com/in-en/careers/search", waiting until "networkidle"
+
+2026-11-01 15:48:44,898 INFO Found 1 jobs via JSON-LD
+2026-11-01 15:48:44,898 INFO [Qualcomm] 1 jobs, nothing new
+2026-11-01 15:48:50,807 INFO Found 3 jobs via link heuristics
+2026-11-01 15:48:50,808 INFO [Google] 3 jobs, nothing new
+2026-11-01 15:49:12,183 INFO [Amazon] 1000 jobs, nothing new
+2026-11-01 15:49:37,880 INFO Detected workday board 'adobe.wd5.myworkdayjobs.com' (278 jobs)
+2026-11-01 15:49:37,882 INFO [Adobe] 254 new job(s)
+2026-11-01 15:50:43,237 ERROR [Oracle] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.oracle.com/in/corporate/careers/", waiting until "networkidle"
+
+2026-11-01 15:50:47,421 INFO Found 13 jobs via link heuristics
+2026-11-01 15:50:47,421 INFO [SAP] 13 jobs, nothing new
+2026-11-01 15:50:55,260 INFO Found 3 jobs via link heuristics
+2026-11-01 15:50:55,261 INFO [Cisco] 2 new job(s)
+2026-11-01 15:51:02,234 INFO Found 20 jobs via link heuristics
+2026-11-01 15:51:02,236 INFO [NVIDIA] 15 new job(s)
+2026-11-01 15:51:08,440 INFO Found 0 jobs via link heuristics
+2026-11-01 15:51:08,440 WARNING [Salesforce] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 15:52:09,058 ERROR [Atlassian] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.atlassian.com/company/careers", waiting until "networkidle"
+
+2026-11-01 15:53:10,061 ERROR [ABB] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.abb/", waiting until "networkidle"
+
+2026-11-01 15:54:11,035 ERROR [Siemens] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://jobs.siemens.com/", waiting until "networkidle"
+
+2026-11-01 15:54:21,120 INFO Found 7 jobs via link heuristics
+2026-11-01 15:54:21,121 INFO [Bosch] 7 jobs, nothing new
+2026-11-01 15:54:22,398 ERROR [Honeywell] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI
+Call log:
+  - navigating to "https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI", waiting until "networkidle"
+
+2026-11-01 15:54:23,092 ERROR [AMD] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.amd.com/en/corporate/careers.html
+Call log:
+  - navigating to "https://www.amd.com/en/corporate/careers.html", waiting until "networkidle"
+
+2026-11-01 15:55:23,720 ERROR [Cargill] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.cargill.com/en/search-jobs/Bengaluru%2C%20Karnataka/23251/4/1269750-1267701-1277331-1277333/12x97194/77x59369/50/2", waiting until "networkidle"
+
+2026-11-01 15:57:00,438 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (1000 jobs)
+2026-11-01 15:57:00,448 INFO [Accenture] 1000 jobs, nothing new
+2026-11-01 15:57:05,813 INFO Found 8 jobs via link heuristics
+2026-11-01 15:57:05,814 INFO [Cognizant] 5 new job(s)
+2026-11-01 15:58:10,598 ERROR [Capgemini] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.capgemini.com/careers/", waiting until "networkidle"
+
+2026-11-01 15:58:17,474 INFO Found 3 jobs via link heuristics
+2026-11-01 15:58:17,475 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-11-01 15:59:18,468 ERROR [JPMorgan Chase] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.jpmorganchase.com/careers/explore-opportunities", waiting until "networkidle"
+
+2026-11-01 16:00:19,539 ERROR [Goldman Sachs] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.goldmansachs.com/worldwide/india/careers/", waiting until "networkidle"
+
+2026-11-01 16:00:20,836 ERROR [Morgan Stanley] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.morganstanley.com/careers/career-opportunities-search/
+Call log:
+  - navigating to "https://www.morganstanley.com/careers/career-opportunities-search/", waiting until "networkidle"
+
+2026-11-01 16:01:24,097 INFO Detected workday board 'visa.wd5.myworkdayjobs.com' (836 jobs)
+2026-11-01 16:01:24,105 INFO [Visa] 836 jobs, nothing new
+2026-11-01 16:02:58,851 INFO Detected workday board 'mastercard.wd1.myworkdayjobs.com' (1000 jobs)
+2026-11-01 16:02:58,867 INFO [Mastercard] first run: saved 1000 jobs as baseline (no email)
+2026-11-01 16:04:00,128 ERROR [PayPal] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.paypal.com/us/webapps/mpp/jobs", waiting until "networkidle"
+
+2026-11-01 16:04:06,889 INFO Detected smartrecruiters board 'PHONEPELIMITED' (130 jobs)
+2026-11-01 16:04:06,890 INFO [PhonePe] 130 new job(s)
+2026-11-01 16:04:15,529 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (31 jobs)
+2026-11-01 16:04:15,531 INFO [Razorpay] 31 jobs, nothing new
+2026-11-01 16:04:18,997 INFO Found 3 jobs via link heuristics
+2026-11-01 16:04:18,997 INFO [Zoho] 2 new job(s)
+2026-11-01 16:04:30,404 INFO Detected smartrecruiters board 'Freshworks' (125 jobs)
+2026-11-01 16:04:30,405 INFO [Freshworks] 125 jobs, nothing new
+2026-11-01 16:04:35,985 INFO Found 6 jobs via link heuristics
+2026-11-01 16:04:35,986 INFO [Mphasis] 6 jobs, nothing new
+2026-11-01 16:05:43,479 INFO Detected workday board 'genpact.wd108.myworkdayjobs.com' (1000 jobs)
+2026-11-01 16:05:43,491 INFO [Genpact] 1000 jobs, nothing new
+2026-11-01 16:05:45,106 INFO Found 0 jobs via link heuristics
+2026-11-01 16:05:45,106 WARNING [Rubrick] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 16:05:48,176 INFO Detected workday board 'kyndryl.wd5.myworkdayjobs.com' (30 jobs)
+2026-11-01 16:05:48,177 INFO [Kyndryl] 29 new job(s)
+2026-11-01 16:05:59,143 INFO Found 1 jobs via JSON-LD
+2026-11-01 16:05:59,153 INFO [Ericsson] first run: saved 1 jobs as baseline (no email)
+2026-11-01 16:07:00,271 ERROR [Philips] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.careers.philips.com/in/en/search-results", waiting until "networkidle"
+
+2026-11-01 16:07:02,751 INFO Found 21 jobs via link heuristics
+2026-11-01 16:07:02,758 INFO [Wells Fargo] first run: saved 21 jobs as baseline (no email)
+2026-11-01 16:07:07,775 INFO Found 23 jobs via link heuristics
+2026-11-01 16:07:07,784 INFO [Stripe] first run: saved 23 jobs as baseline (no email)
+2026-11-01 16:07:09,227 INFO Found 0 jobs via link heuristics
+2026-11-01 16:07:09,227 WARNING [Myntra] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 16:07:14,671 INFO Detected workday board 'jiostar.wd102.myworkdayjobs.com' (231 jobs)
+2026-11-01 16:07:14,673 INFO [Jio] 158 new job(s)
+2026-11-01 16:08:19,734 ERROR [Cohesity] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.cohesity.com/careers/open-positions/", waiting until "networkidle"
+
+2026-11-01 16:08:21,825 INFO Found 0 jobs via link heuristics
+2026-11-01 16:08:21,826 WARNING [Akamai] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-01 16:08:29,646 INFO Found 45 jobs via link heuristics
+2026-11-01 16:08:29,655 INFO [NatWest Group] first run: saved 45 jobs as baseline (no email)
+2026-11-01 16:08:29,656 INFO Run finished successfully at 2026-11-01 16:08:29
+2026-11-02 09:05:04,627 INFO Started. Checking every 3 hour(s).
+2026-11-02 09:06:31,712 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-02 09:06:31,733 INFO [HPE] 7 new job(s)
+2026-11-02 09:08:35,680 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-02 09:08:35,708 INFO [Target] 7 new job(s)
+2026-11-02 09:09:42,253 ERROR [IBM] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.ibm.com/in-en/careers/search", waiting until "networkidle"
+
+2026-11-02 09:09:52,176 INFO Found 1 jobs via JSON-LD
+2026-11-02 09:09:52,180 INFO [Qualcomm] 1 jobs, nothing new
+2026-11-02 09:10:02,021 INFO Found 3 jobs via link heuristics
+2026-11-02 09:10:02,024 INFO [Google] 3 jobs, nothing new
+2026-11-02 09:10:21,809 INFO [Amazon] 23 new job(s)
+2026-11-02 09:11:03,678 INFO Detected workday board 'adobe.wd5.myworkdayjobs.com' (276 jobs)
+2026-11-02 09:11:03,687 INFO [Adobe] 276 jobs, nothing new
+2026-11-02 09:12:06,025 ERROR [Oracle] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.oracle.com/in/corporate/careers/", waiting until "networkidle"
+
+2026-11-02 09:12:13,703 INFO Found 13 jobs via link heuristics
+2026-11-02 09:12:13,707 INFO [SAP] 13 jobs, nothing new
+2026-11-02 09:12:25,119 INFO Found 3 jobs via link heuristics
+2026-11-02 09:12:25,124 INFO [Cisco] 3 jobs, nothing new
+2026-11-02 09:12:32,180 INFO Found 20 jobs via link heuristics
+2026-11-02 09:12:32,184 INFO [NVIDIA] 20 jobs, nothing new
+2026-11-02 09:12:36,709 INFO Found 0 jobs via link heuristics
+2026-11-02 09:12:36,711 WARNING [Salesforce] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 09:13:38,304 ERROR [Atlassian] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.atlassian.com/company/careers", waiting until "networkidle"
+
+2026-11-02 09:14:40,805 ERROR [ABB] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.abb/", waiting until "networkidle"
+
+2026-11-02 09:15:43,347 ERROR [Siemens] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://jobs.siemens.com/", waiting until "networkidle"
+
+2026-11-02 09:15:53,986 INFO Found 7 jobs via link heuristics
+2026-11-02 09:15:53,989 INFO [Bosch] 7 jobs, nothing new
+2026-11-02 09:15:56,404 ERROR [Honeywell] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI
+Call log:
+  - navigating to "https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI", waiting until "networkidle"
+
+2026-11-02 09:15:57,890 ERROR [AMD] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.amd.com/en/corporate/careers.html
+Call log:
+  - navigating to "https://www.amd.com/en/corporate/careers.html", waiting until "networkidle"
+
+2026-11-02 09:16:59,397 ERROR [Cargill] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.cargill.com/en/search-jobs/Bengaluru%2C%20Karnataka/23251/4/1269750-1267701-1277331-1277333/12x97194/77x59369/50/2", waiting until "networkidle"
+
+2026-11-02 09:18:38,703 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (1000 jobs)
+2026-11-02 09:18:38,724 INFO [Accenture] 23 new job(s)
+2026-11-02 09:18:51,336 INFO Found 8 jobs via link heuristics
+2026-11-02 09:18:51,340 INFO [Cognizant] 3 new job(s)
+2026-11-02 09:51:34,698 ERROR [Capgemini] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.capgemini.com/careers/", waiting until "networkidle"
+
+2026-11-02 09:51:56,801 INFO Found 3 jobs via link heuristics
+2026-11-02 09:51:56,806 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-11-02 09:52:04,552 INFO Found 10 jobs via link heuristics
+2026-11-02 09:52:04,554 INFO [JPMorgan Chase] 10 jobs, nothing new
+2026-11-02 09:52:10,977 INFO Found 23 jobs via link heuristics
+2026-11-02 09:52:10,979 INFO [Goldman Sachs] 4 new job(s)
+2026-11-02 09:52:17,283 ERROR [Morgan Stanley] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.morganstanley.com/careers/career-opportunities-search/
+Call log:
+  - navigating to "https://www.morganstanley.com/careers/career-opportunities-search/", waiting until "networkidle"
+
+2026-11-02 09:53:24,897 INFO Detected workday board 'visa.wd5.myworkdayjobs.com' (837 jobs)
+2026-11-02 09:53:24,914 INFO [Visa] 1 new job(s)
+2026-11-02 09:55:59,976 INFO Found 6 jobs via link heuristics
+2026-11-02 09:55:59,999 INFO [Mastercard] 6 new job(s)
+2026-11-02 09:56:00,017 ERROR [Mastercard] email failed, will retry next run: [Errno 11001] getaddrinfo failed
+2026-11-02 11:37:46,161 ERROR [PayPal] could not fetch jobs: Page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://www.paypal.com/us/webapps/mpp/jobs
+Call log:
+  - navigating to "https://www.paypal.com/us/webapps/mpp/jobs", waiting until "networkidle"
+
+2026-11-02 12:03:41,625 INFO Started. Checking every 3 hour(s).
