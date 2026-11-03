@@ -1,6 +1,8 @@
 # Job Monitor
 
 Checks company careers pages every 3 hours and emails you when a new job shows up.
+Company pages are fetched concurrently (5 at a time by default); adjust
+`max_concurrent_companies` in `config.yaml` to change this limit.
 
 ## Structure
 
@@ -41,6 +43,9 @@ pip install -r requirements.txt
 - First run for a company saves all current jobs as a baseline without
   emailing. After that, only new jobs trigger an email.
 - If a fetch or email fails, nothing is marked as seen, so it retries next run.
+- Fetching companies concurrently speeds up checks, especially when some sites
+  are slow or time out. Database updates and email notifications remain
+  sequential.
 
 ## Notes
 

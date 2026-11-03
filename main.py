@@ -6,6 +6,7 @@ Usage:
     python main.py --test-email # send a test email and exit
 """
 import argparse
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import logging
 import time
 from pathlib import Path
@@ -27,6 +28,7 @@ def load_config(path):
     cfg.setdefault("check_interval_hours", 3)
     cfg.setdefault("database_path", "jobs.db")
     cfg.setdefault("notify_on_first_run", False)
+    cfg.setdefault("max_concurrent_companies", 5)
     cfg.setdefault("default_keywords", [])
     cfg.setdefault("companies", [])
     return cfg
@@ -39,18 +41,23 @@ def matches_keywords(job, keywords):
     return any(k.lower() in title for k in keywords)
 
 
-def check_company(company, db, notify_on_first_run, cfg):
-    name = company["name"]
-    url = company["careers_url"]
-    keywords = company.get("keywords") or cfg.get("default_keywords", [])
+def fetch_company_jobs(company, cfg):
+    name = company.get("name", "<unnamed company>")
+    url = company.get("careers_url")
+    if not url:
+        log.error("[%s] missing careers_url; skipping company", name)
+        return None
 
     try:
-        jobs = discover_jobs(url, render_js=company.get("render_js", False))
+        return discover_jobs(url, render_js=company.get("render_js", False))
     except Exception as e:
-        # Don't touch the DB on failure, so nothing is wrongly marked new/gone.
         log.error("[%s] could not fetch jobs: %s", name, e)
-        return
+        return None
 
+
+def process_company_jobs(company, jobs, db, notify_on_first_run, cfg):
+    name = company["name"]
+    keywords = company.get("keywords") or cfg.get("default_keywords", [])
     jobs = [j for j in jobs if matches_keywords(j, keywords)]
     if not jobs:
         log.warning(
@@ -85,8 +92,27 @@ def check_company(company, db, notify_on_first_run, cfg):
 def run_once(cfg):
     db = Storage(BASE_DIR / cfg["database_path"])
     try:
-        for company in cfg["companies"]:
-            check_company(company, db, cfg["notify_on_first_run"], cfg)
+        companies = cfg["companies"]
+        max_workers = int(cfg.get("max_concurrent_companies", 5))
+        if max_workers < 1:
+            raise ValueError("max_concurrent_companies must be at least 1")
+        log.info(
+            "Fetching %d companies with up to %d workers",
+            len(companies), max_workers,
+        )
+
+        with ThreadPoolExecutor(max_workers=max_workers) as executor:
+            futures = {
+                executor.submit(fetch_company_jobs, company, cfg): company
+                for company in companies
+            }
+            for future in as_completed(futures):
+                company = futures[future]
+                jobs = future.result()
+                if jobs is not None:
+                    process_company_jobs(
+                        company, jobs, db, cfg["notify_on_first_run"], cfg
+                    )
     finally:
         db.close()
 

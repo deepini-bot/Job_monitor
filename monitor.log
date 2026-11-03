@@ -1566,3 +1566,1021 @@ Call log:
   - navigating to "https://www.paypal.com/us/webapps/mpp/jobs", waiting until "networkidle"
 
 2026-11-02 12:03:41,625 INFO Started. Checking every 3 hour(s).
+2026-11-02 12:04:34,246 INFO Started. Checking every 3 hour(s).
+2026-11-02 12:06:03,507 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-02 12:06:03,573 INFO [HPE] 2 new job(s)
+2026-11-02 12:08:06,061 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (998 jobs)
+2026-11-02 12:08:06,128 INFO [Target] 9 new job(s)
+2026-11-02 12:09:13,245 ERROR [IBM] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.ibm.com/in-en/careers/search", waiting until "networkidle"
+
+2026-11-02 12:09:28,678 INFO Found 1 jobs via JSON-LD
+2026-11-02 12:09:28,686 INFO [Qualcomm] 1 jobs, nothing new
+2026-11-02 12:10:31,495 ERROR [Google] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.google.com/", waiting until "networkidle"
+
+2026-11-02 12:10:50,236 INFO [Amazon] 13 new job(s)
+2026-11-02 12:11:28,778 INFO Detected workday board 'adobe.wd5.myworkdayjobs.com' (275 jobs)
+2026-11-02 12:11:28,790 INFO [Adobe] 275 jobs, nothing new
+2026-11-02 12:12:31,891 ERROR [Oracle] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.oracle.com/in/corporate/careers/", waiting until "networkidle"
+
+2026-11-02 12:12:39,093 INFO Found 13 jobs via link heuristics
+2026-11-02 12:12:39,096 INFO [SAP] 3 new job(s)
+2026-11-02 12:12:56,400 INFO Found 3 jobs via link heuristics
+2026-11-02 12:12:56,405 INFO [Cisco] 3 jobs, nothing new
+2026-11-02 12:13:02,964 INFO Found 20 jobs via link heuristics
+2026-11-02 12:13:02,967 INFO [NVIDIA] 20 jobs, nothing new
+2026-11-02 12:13:06,550 INFO Found 0 jobs via link heuristics
+2026-11-02 12:13:06,552 WARNING [Salesforce] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 12:14:08,847 ERROR [Atlassian] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.atlassian.com/company/careers", waiting until "networkidle"
+
+2026-11-02 12:15:11,765 ERROR [ABB] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.abb/", waiting until "networkidle"
+
+2026-11-02 12:16:14,497 ERROR [Siemens] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://jobs.siemens.com/", waiting until "networkidle"
+
+2026-11-02 12:16:25,798 INFO Found 7 jobs via link heuristics
+2026-11-02 12:16:25,801 INFO [Bosch] 7 jobs, nothing new
+2026-11-02 12:16:28,241 ERROR [Honeywell] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI
+Call log:
+  - navigating to "https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI", waiting until "networkidle"
+
+2026-11-02 12:16:29,778 ERROR [AMD] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.amd.com/en/corporate/careers.html
+Call log:
+  - navigating to "https://www.amd.com/en/corporate/careers.html", waiting until "networkidle"
+
+2026-11-02 12:17:31,514 ERROR [Cargill] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.cargill.com/en/search-jobs/Bengaluru%2C%20Karnataka/23251/4/1269750-1267701-1277331-1277333/12x97194/77x59369/50/2", waiting until "networkidle"
+
+2026-11-02 12:19:23,627 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (999 jobs)
+2026-11-02 12:19:23,670 INFO [Accenture] 35 new job(s)
+2026-11-02 12:19:36,185 INFO Found 8 jobs via link heuristics
+2026-11-02 12:19:36,190 INFO [Cognizant] 2 new job(s)
+2026-11-02 12:20:42,564 ERROR [Capgemini] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.capgemini.com/careers/", waiting until "networkidle"
+
+2026-11-02 12:20:50,711 INFO Found 3 jobs via link heuristics
+2026-11-02 12:20:50,717 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-11-02 12:21:54,250 ERROR [JPMorgan Chase] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.jpmorganchase.com/careers/explore-opportunities", waiting until "networkidle"
+
+2026-11-02 12:22:00,556 INFO Found 23 jobs via link heuristics
+2026-11-02 12:22:00,561 INFO [Goldman Sachs] 23 jobs, nothing new
+2026-11-02 12:22:02,133 ERROR [Morgan Stanley] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.morganstanley.com/careers/career-opportunities-search/
+Call log:
+  - navigating to "https://www.morganstanley.com/careers/career-opportunities-search/", waiting until "networkidle"
+
+2026-11-02 12:23:13,520 INFO Detected workday board 'visa.wd5.myworkdayjobs.com' (833 jobs)
+2026-11-02 12:23:13,543 INFO [Visa] 833 jobs, nothing new
+2026-11-02 12:24:46,766 INFO Detected workday board 'mastercard.wd1.myworkdayjobs.com' (999 jobs)
+2026-11-02 12:24:46,845 INFO [Mastercard] 7 new job(s)
+2026-11-02 12:25:52,727 ERROR [PayPal] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.paypal.com/us/webapps/mpp/jobs", waiting until "networkidle"
+
+2026-11-02 12:26:00,416 INFO Detected smartrecruiters board 'PHONEPELIMITED' (131 jobs)
+2026-11-02 12:26:00,419 INFO [PhonePe] 1 new job(s)
+2026-11-02 12:26:11,811 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (28 jobs)
+2026-11-02 12:26:11,816 INFO [Razorpay] 1 new job(s)
+2026-11-02 12:26:22,119 INFO Found 3 jobs via link heuristics
+2026-11-02 12:26:22,120 INFO [Zoho] 3 jobs, nothing new
+2026-11-02 12:26:32,227 INFO Detected smartrecruiters board 'Freshworks' (125 jobs)
+2026-11-02 12:26:32,228 INFO [Freshworks] 125 jobs, nothing new
+2026-11-02 12:26:37,532 INFO Found 6 jobs via link heuristics
+2026-11-02 12:26:37,534 INFO [Mphasis] 6 jobs, nothing new
+2026-11-02 12:27:50,186 INFO Detected workday board 'genpact.wd108.myworkdayjobs.com' (1000 jobs)
+2026-11-02 12:27:50,200 INFO [Genpact] 7 new job(s)
+2026-11-02 12:27:56,444 INFO Found 0 jobs via link heuristics
+2026-11-02 12:27:56,445 WARNING [Rubrick] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 12:27:59,471 INFO Detected workday board 'kyndryl.wd5.myworkdayjobs.com' (30 jobs)
+2026-11-02 12:27:59,473 INFO [Kyndryl] 30 jobs, nothing new
+2026-11-02 12:28:06,893 INFO Found 1 jobs via JSON-LD
+2026-11-02 12:28:06,895 INFO [Ericsson] 1 jobs, nothing new
+2026-11-02 12:29:08,180 ERROR [Philips] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.careers.philips.com/in/en/search-results", waiting until "networkidle"
+
+2026-11-02 12:29:11,289 INFO Found 21 jobs via link heuristics
+2026-11-02 12:29:11,291 INFO [Wells Fargo] 5 new job(s)
+2026-11-02 12:29:22,265 INFO Found 23 jobs via link heuristics
+2026-11-02 12:29:22,267 INFO [Stripe] 23 jobs, nothing new
+2026-11-02 12:29:24,389 INFO Found 0 jobs via link heuristics
+2026-11-02 12:29:24,389 WARNING [Myntra] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 12:29:33,962 INFO Detected workday board 'jiostar.wd102.myworkdayjobs.com' (232 jobs)
+2026-11-02 12:29:33,967 INFO [Jio] 2 new job(s)
+2026-11-02 12:30:39,959 ERROR [Cohesity] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.cohesity.com/careers/open-positions/", waiting until "networkidle"
+
+2026-11-02 12:30:41,706 INFO Found 0 jobs via link heuristics
+2026-11-02 12:30:41,707 WARNING [Akamai] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 12:31:18,398 INFO Found 44 jobs via link heuristics
+2026-11-02 12:31:18,402 INFO [NatWest Group] 44 jobs, nothing new
+2026-11-02 12:31:18,414 INFO Run finished successfully at 2026-11-02 12:31:18
+2026-11-02 14:31:57,940 INFO Started. Checking every 3 hour(s).
+2026-11-02 14:32:12,756 INFO Started. Checking every 3 hour(s).
+2026-11-02 14:33:42,822 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-02 14:33:42,838 INFO [HPE] 2 new job(s)
+2026-11-02 14:35:43,193 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (999 jobs)
+2026-11-02 14:35:43,222 INFO [Target] 17 new job(s)
+2026-11-02 14:36:49,614 ERROR [IBM] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.ibm.com/in-en/careers/search", waiting until "networkidle"
+
+2026-11-02 14:36:58,356 INFO Found 1 jobs via JSON-LD
+2026-11-02 14:36:58,358 INFO [Qualcomm] 1 jobs, nothing new
+2026-11-02 14:37:05,708 INFO Found 3 jobs via link heuristics
+2026-11-02 14:37:05,709 INFO [Google] 3 jobs, nothing new
+2026-11-02 14:37:25,752 INFO [Amazon] 8 new job(s)
+2026-11-02 14:37:59,577 INFO Detected workday board 'adobe.wd5.myworkdayjobs.com' (277 jobs)
+2026-11-02 14:37:59,583 INFO [Adobe] 2 new job(s)
+2026-11-02 14:39:04,486 ERROR [Oracle] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.oracle.com/in/corporate/careers/", waiting until "networkidle"
+
+2026-11-02 14:39:11,239 INFO Found 13 jobs via link heuristics
+2026-11-02 14:39:11,241 INFO [SAP] 2 new job(s)
+2026-11-02 14:39:24,710 INFO Found 3 jobs via link heuristics
+2026-11-02 14:39:24,712 INFO [Cisco] 3 jobs, nothing new
+2026-11-02 14:39:27,493 INFO Found 20 jobs via link heuristics
+2026-11-02 14:39:27,495 INFO [NVIDIA] 20 jobs, nothing new
+2026-11-02 14:39:29,597 INFO Found 0 jobs via link heuristics
+2026-11-02 14:39:29,598 WARNING [Salesforce] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 14:40:30,363 ERROR [Atlassian] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.atlassian.com/company/careers", waiting until "networkidle"
+
+2026-11-02 14:41:13,105 INFO Found 0 jobs via link heuristics
+2026-11-02 14:41:13,106 WARNING [ABB] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 14:42:14,257 ERROR [Siemens] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://jobs.siemens.com/", waiting until "networkidle"
+
+2026-11-02 14:42:23,995 INFO Found 7 jobs via link heuristics
+2026-11-02 14:42:23,997 INFO [Bosch] 7 jobs, nothing new
+2026-11-02 14:42:40,088 INFO Found 6 jobs via link heuristics
+2026-11-02 14:42:40,097 INFO [Honeywell] first run: saved 6 jobs as baseline (no email)
+2026-11-02 14:42:41,286 ERROR [AMD] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.amd.com/en/corporate/careers.html
+Call log:
+  - navigating to "https://www.amd.com/en/corporate/careers.html", waiting until "networkidle"
+
+2026-11-02 14:43:42,396 ERROR [Cargill] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.cargill.com/en/search-jobs/Bengaluru%2C%20Karnataka/23251/4/1269750-1267701-1277331-1277333/12x97194/77x59369/50/2", waiting until "networkidle"
+
+2026-11-02 14:45:24,485 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (999 jobs)
+2026-11-02 14:45:24,494 INFO [Accenture] 98 new job(s)
+2026-11-02 14:45:34,991 INFO Found 8 jobs via link heuristics
+2026-11-02 14:45:34,993 INFO [Cognizant] 3 new job(s)
+2026-11-02 14:46:39,706 ERROR [Capgemini] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.capgemini.com/careers/", waiting until "networkidle"
+
+2026-11-02 14:46:42,831 INFO Found 3 jobs via link heuristics
+2026-11-02 14:46:42,832 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-11-02 14:46:48,429 INFO Found 10 jobs via link heuristics
+2026-11-02 14:46:48,430 INFO [JPMorgan Chase] 10 jobs, nothing new
+2026-11-02 14:47:49,442 ERROR [Goldman Sachs] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.goldmansachs.com/worldwide/india/careers/", waiting until "networkidle"
+
+2026-11-02 14:47:50,581 ERROR [Morgan Stanley] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.morganstanley.com/careers/career-opportunities-search/
+Call log:
+  - navigating to "https://www.morganstanley.com/careers/career-opportunities-search/", waiting until "networkidle"
+
+2026-11-02 14:48:58,369 INFO Detected workday board 'visa.wd5.myworkdayjobs.com' (829 jobs)
+2026-11-02 14:48:58,379 INFO [Visa] 2 new job(s)
+2026-11-02 14:50:36,902 INFO Detected workday board 'mastercard.wd1.myworkdayjobs.com' (997 jobs)
+2026-11-02 14:50:36,910 INFO [Mastercard] 5 new job(s)
+2026-11-02 14:51:44,024 ERROR [PayPal] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.paypal.com/us/webapps/mpp/jobs", waiting until "networkidle"
+
+2026-11-02 14:51:50,856 INFO Detected smartrecruiters board 'PHONEPELIMITED' (132 jobs)
+2026-11-02 14:51:50,860 INFO [PhonePe] 1 new job(s)
+2026-11-02 14:52:00,553 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (27 jobs)
+2026-11-02 14:52:00,555 INFO [Razorpay] 1 new job(s)
+2026-11-02 14:52:09,044 INFO Found 3 jobs via link heuristics
+2026-11-02 14:52:09,045 INFO [Zoho] 3 jobs, nothing new
+2026-11-02 14:52:15,051 INFO Detected smartrecruiters board 'Freshworks' (123 jobs)
+2026-11-02 14:52:15,053 INFO [Freshworks] 123 jobs, nothing new
+2026-11-02 14:52:20,379 INFO Found 6 jobs via link heuristics
+2026-11-02 14:52:20,379 INFO [Mphasis] 6 jobs, nothing new
+2026-11-02 14:53:31,999 INFO Detected workday board 'genpact.wd108.myworkdayjobs.com' (1000 jobs)
+2026-11-02 14:53:32,011 INFO [Genpact] 19 new job(s)
+2026-11-02 14:53:38,241 INFO Found 0 jobs via link heuristics
+2026-11-02 14:53:38,242 WARNING [Rubrick] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 14:53:41,368 INFO Detected workday board 'kyndryl.wd5.myworkdayjobs.com' (30 jobs)
+2026-11-02 14:53:41,371 INFO [Kyndryl] 30 jobs, nothing new
+2026-11-02 14:53:49,166 INFO Found 1 jobs via JSON-LD
+2026-11-02 14:53:49,167 INFO [Ericsson] 1 jobs, nothing new
+2026-11-02 14:54:50,256 ERROR [Philips] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.careers.philips.com/in/en/search-results", waiting until "networkidle"
+
+2026-11-02 14:54:53,885 INFO Found 21 jobs via link heuristics
+2026-11-02 14:54:53,886 INFO [Wells Fargo] 21 jobs, nothing new
+2026-11-02 14:55:00,223 INFO Found 23 jobs via link heuristics
+2026-11-02 14:55:00,224 INFO [Stripe] 23 jobs, nothing new
+2026-11-02 14:55:02,296 INFO Found 0 jobs via link heuristics
+2026-11-02 14:55:02,296 WARNING [Myntra] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 14:55:11,024 INFO Detected workday board 'jiostar.wd102.myworkdayjobs.com' (232 jobs)
+2026-11-02 14:55:11,026 INFO [Jio] 232 jobs, nothing new
+2026-11-02 14:55:12,914 INFO Found 0 jobs via link heuristics
+2026-11-02 14:55:12,914 WARNING [Cohesity] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 14:55:14,341 INFO Found 0 jobs via link heuristics
+2026-11-02 14:55:14,341 WARNING [Akamai] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 14:55:22,364 INFO Found 44 jobs via link heuristics
+2026-11-02 14:55:22,365 INFO [NatWest Group] 44 jobs, nothing new
+2026-11-02 14:56:55,652 INFO Detected workday board 'iqvia.wd1.myworkdayjobs.com' (1000 jobs)
+2026-11-02 14:56:55,776 INFO [IQVIA] first run: saved 1000 jobs as baseline (no email)
+2026-11-02 14:56:57,441 INFO Detected smartrecruiters board 'TheNielsenCompany' (112 jobs)
+2026-11-02 14:56:57,455 INFO [Nielsen] first run: saved 112 jobs as baseline (no email)
+2026-11-02 14:56:57,469 INFO Run finished successfully at 2026-11-02 14:56:57
+2026-11-02 17:32:30,051 INFO Started. Checking every 3 hour(s).
+2026-11-02 17:34:02,421 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (999 jobs)
+2026-11-02 17:34:02,443 INFO [HPE] 3 new job(s)
+2026-11-02 17:36:18,554 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-02 17:36:18,614 INFO [Target] 26 new job(s)
+2026-11-02 17:37:36,659 ERROR [IBM] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.ibm.com/in-en/careers/search", waiting until "networkidle"
+
+2026-11-02 17:38:02,221 INFO Found 1 jobs via JSON-LD
+2026-11-02 17:38:02,229 INFO [Qualcomm] 1 jobs, nothing new
+2026-11-02 17:38:19,389 INFO Found 3 jobs via link heuristics
+2026-11-02 17:38:19,393 INFO [Google] 3 jobs, nothing new
+2026-11-02 17:38:38,701 INFO [Amazon] 16 new job(s)
+2026-11-02 17:39:35,571 INFO Detected workday board 'adobe.wd5.myworkdayjobs.com' (281 jobs)
+2026-11-02 17:39:35,585 INFO [Adobe] 4 new job(s)
+2026-11-02 17:40:52,422 ERROR [Oracle] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.oracle.com/in/corporate/careers/", waiting until "networkidle"
+
+2026-11-02 17:41:16,399 INFO Found 13 jobs via link heuristics
+2026-11-02 17:41:16,412 INFO [SAP] 5 new job(s)
+2026-11-02 17:41:47,411 INFO Found 3 jobs via link heuristics
+2026-11-02 17:41:47,444 INFO [Cisco] 3 jobs, nothing new
+2026-11-02 17:41:58,790 INFO Found 20 jobs via link heuristics
+2026-11-02 17:41:58,796 INFO [NVIDIA] 20 jobs, nothing new
+2026-11-02 17:42:08,092 INFO Found 0 jobs via link heuristics
+2026-11-02 17:42:08,093 WARNING [Salesforce] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 17:43:13,744 ERROR [Atlassian] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.atlassian.com/company/careers", waiting until "networkidle"
+
+2026-11-02 17:44:20,587 ERROR [ABB] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.abb/", waiting until "networkidle"
+
+2026-11-02 17:45:26,960 ERROR [Siemens] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://jobs.siemens.com/", waiting until "networkidle"
+
+2026-11-02 17:45:35,829 INFO Found 7 jobs via link heuristics
+2026-11-02 17:45:35,832 INFO [Bosch] 7 jobs, nothing new
+2026-11-02 17:45:39,282 ERROR [Honeywell] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI
+Call log:
+  - navigating to "https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI", waiting until "networkidle"
+
+2026-11-02 17:45:41,597 ERROR [AMD] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.amd.com/en/corporate/careers.html
+Call log:
+  - navigating to "https://www.amd.com/en/corporate/careers.html", waiting until "networkidle"
+
+2026-11-02 17:46:54,410 ERROR [Cargill] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.cargill.com/en/search-jobs/Bengaluru%2C%20Karnataka/23251/4/1269750-1267701-1277331-1277333/12x97194/77x59369/50/2", waiting until "networkidle"
+
+2026-11-02 17:48:57,517 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (999 jobs)
+2026-11-02 17:48:57,593 INFO [Accenture] 275 new job(s)
+2026-11-02 17:49:21,380 INFO Found 8 jobs via link heuristics
+2026-11-02 17:49:21,392 INFO [Cognizant] 3 new job(s)
+2026-11-02 17:50:53,206 ERROR [Capgemini] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.capgemini.com/careers/", waiting until "networkidle"
+
+2026-11-02 17:51:14,535 INFO Found 3 jobs via link heuristics
+2026-11-02 17:51:14,547 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-11-02 17:52:19,129 ERROR [JPMorgan Chase] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.jpmorganchase.com/careers/explore-opportunities", waiting until "networkidle"
+
+2026-11-02 17:52:28,864 INFO Found 23 jobs via link heuristics
+2026-11-02 17:52:28,871 INFO [Goldman Sachs] 23 jobs, nothing new
+2026-11-02 17:52:31,430 ERROR [Morgan Stanley] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.morganstanley.com/careers/career-opportunities-search/
+Call log:
+  - navigating to "https://www.morganstanley.com/careers/career-opportunities-search/", waiting until "networkidle"
+
+2026-11-02 17:53:39,273 INFO Detected workday board 'visa.wd5.myworkdayjobs.com' (828 jobs)
+2026-11-02 17:53:39,288 INFO [Visa] 2 new job(s)
+2026-11-02 17:55:24,229 INFO Detected workday board 'mastercard.wd1.myworkdayjobs.com' (1000 jobs)
+2026-11-02 17:55:24,249 INFO [Mastercard] 9 new job(s)
+2026-11-02 17:56:31,129 ERROR [PayPal] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.paypal.com/us/webapps/mpp/jobs", waiting until "networkidle"
+
+2026-11-02 17:56:44,257 INFO Detected smartrecruiters board 'PHONEPELIMITED' (134 jobs)
+2026-11-02 17:56:44,262 INFO [PhonePe] 3 new job(s)
+2026-11-02 17:56:59,607 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (27 jobs)
+2026-11-02 17:56:59,614 INFO [Razorpay] 27 jobs, nothing new
+2026-11-02 17:57:06,168 INFO Found 3 jobs via link heuristics
+2026-11-02 17:57:06,169 INFO [Zoho] 3 jobs, nothing new
+2026-11-02 17:57:20,262 INFO Detected smartrecruiters board 'Freshworks' (123 jobs)
+2026-11-02 17:57:20,268 INFO [Freshworks] 2 new job(s)
+2026-11-02 17:57:32,049 INFO Found 6 jobs via link heuristics
+2026-11-02 17:57:32,053 INFO [Mphasis] 6 jobs, nothing new
+2026-11-02 17:58:54,569 INFO Detected workday board 'genpact.wd108.myworkdayjobs.com' (1000 jobs)
+2026-11-02 17:58:54,596 INFO [Genpact] 21 new job(s)
+2026-11-02 17:59:02,541 INFO Found 0 jobs via link heuristics
+2026-11-02 17:59:02,541 WARNING [Rubrick] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 17:59:05,693 INFO Detected workday board 'kyndryl.wd5.myworkdayjobs.com' (30 jobs)
+2026-11-02 17:59:05,694 INFO [Kyndryl] 30 jobs, nothing new
+2026-11-02 17:59:17,931 INFO Found 1 jobs via JSON-LD
+2026-11-02 17:59:17,933 INFO [Ericsson] 1 jobs, nothing new
+2026-11-02 18:00:20,583 ERROR [Philips] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.careers.philips.com/in/en/search-results", waiting until "networkidle"
+
+2026-11-02 18:00:26,794 INFO Found 21 jobs via link heuristics
+2026-11-02 18:00:26,800 INFO [Wells Fargo] 5 new job(s)
+2026-11-02 18:00:41,526 INFO Found 8 jobs via link heuristics
+2026-11-02 18:00:41,532 INFO [Stripe] 4 new job(s)
+2026-11-02 18:00:50,014 INFO Found 0 jobs via link heuristics
+2026-11-02 18:00:50,015 WARNING [Myntra] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 18:00:56,560 INFO Detected workday board 'jiostar.wd102.myworkdayjobs.com' (230 jobs)
+2026-11-02 18:00:56,564 INFO [Jio] 230 jobs, nothing new
+2026-11-02 18:00:58,255 INFO Found 0 jobs via link heuristics
+2026-11-02 18:00:58,255 WARNING [Cohesity] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 18:00:59,702 INFO Found 0 jobs via link heuristics
+2026-11-02 18:00:59,702 WARNING [Akamai] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 18:01:14,270 INFO Found 44 jobs via link heuristics
+2026-11-02 18:01:14,272 INFO [NatWest Group] 44 jobs, nothing new
+2026-11-02 18:02:45,644 INFO Detected workday board 'iqvia.wd1.myworkdayjobs.com' (999 jobs)
+2026-11-02 18:02:45,657 INFO [IQVIA] 39 new job(s)
+2026-11-02 18:02:52,264 INFO Detected smartrecruiters board 'TheNielsenCompany' (113 jobs)
+2026-11-02 18:02:52,273 INFO [Nielsen] 2 new job(s)
+2026-11-02 18:03:45,188 INFO Detected workday board 'lseg.wd3.myworkdayjobs.com' (665 jobs)
+2026-11-02 18:03:45,208 INFO [LSEG] first run: saved 665 jobs as baseline (no email)
+2026-11-02 18:03:56,537 INFO Found 27 jobs via link heuristics
+2026-11-02 18:03:56,548 INFO [Optum] first run: saved 27 jobs as baseline (no email)
+2026-11-02 18:05:06,126 INFO Detected workday board 'lowes.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-02 18:05:06,144 INFO [Lowes] first run: saved 1000 jobs as baseline (no email)
+2026-11-02 18:05:06,153 INFO Run finished successfully at 2026-11-02 18:05:06
+2026-11-02 20:46:37,418 INFO Started. Checking every 3 hour(s).
+2026-11-02 20:48:09,678 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-02 20:48:09,701 INFO [HPE] 1 new job(s)
+2026-11-02 20:50:21,327 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-02 20:50:21,344 INFO [Target] 7 new job(s)
+2026-11-02 20:52:09,026 ERROR [IBM] could not fetch jobs: Page.goto: Timeout 100000ms exceeded.
+Call log:
+  - navigating to "https://www.ibm.com/in-en/careers/search", waiting until "networkidle"
+
+2026-11-02 20:52:18,887 INFO Found 1 jobs via JSON-LD
+2026-11-02 20:52:18,889 INFO [Qualcomm] 1 jobs, nothing new
+2026-11-02 20:52:29,435 INFO Found 3 jobs via link heuristics
+2026-11-02 20:52:29,436 INFO [Google] 3 jobs, nothing new
+2026-11-02 20:52:52,792 INFO [Amazon] 18 new job(s)
+2026-11-02 20:53:31,253 INFO Detected workday board 'adobe.wd5.myworkdayjobs.com' (279 jobs)
+2026-11-02 20:53:31,261 INFO [Adobe] 279 jobs, nothing new
+2026-11-02 20:55:13,469 ERROR [Oracle] could not fetch jobs: Page.goto: Timeout 100000ms exceeded.
+Call log:
+  - navigating to "https://www.oracle.com/in/corporate/careers/", waiting until "networkidle"
+
+2026-11-02 20:55:19,647 INFO Found 13 jobs via link heuristics
+2026-11-02 20:55:19,651 INFO [SAP] 5 new job(s)
+2026-11-02 20:55:35,763 INFO Found 3 jobs via link heuristics
+2026-11-02 20:55:35,767 INFO [Cisco] 3 jobs, nothing new
+2026-11-02 20:55:39,755 INFO Found 20 jobs via link heuristics
+2026-11-02 20:55:39,759 INFO [NVIDIA] 20 jobs, nothing new
+2026-11-02 20:55:41,931 INFO Found 0 jobs via link heuristics
+2026-11-02 20:55:41,932 WARNING [Salesforce] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 20:57:23,377 ERROR [Atlassian] could not fetch jobs: Page.goto: Timeout 100000ms exceeded.
+Call log:
+  - navigating to "https://www.atlassian.com/company/careers", waiting until "networkidle"
+
+2026-11-02 20:59:05,599 ERROR [ABB] could not fetch jobs: Page.goto: Timeout 100000ms exceeded.
+Call log:
+  - navigating to "https://careers.abb/", waiting until "networkidle"
+
+2026-11-02 21:00:11,640 INFO Found 4 jobs via link heuristics
+2026-11-02 21:00:11,641 INFO [Siemens] 4 jobs, nothing new
+2026-11-02 21:00:18,696 INFO Found 7 jobs via link heuristics
+2026-11-02 21:00:18,697 INFO [Bosch] 7 jobs, nothing new
+2026-11-02 21:00:21,070 ERROR [Honeywell] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI
+Call log:
+  - navigating to "https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI", waiting until "networkidle"
+
+2026-11-02 21:00:22,734 ERROR [AMD] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.amd.com/en/corporate/careers.html
+Call log:
+  - navigating to "https://www.amd.com/en/corporate/careers.html", waiting until "networkidle"
+
+2026-11-02 21:02:03,921 ERROR [Cargill] could not fetch jobs: Page.goto: Timeout 100000ms exceeded.
+Call log:
+  - navigating to "https://careers.cargill.com/en/search-jobs/Bengaluru%2C%20Karnataka/23251/4/1269750-1267701-1277331-1277333/12x97194/77x59369/50/2", waiting until "networkidle"
+
+2026-11-02 21:03:48,137 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (999 jobs)
+2026-11-02 21:03:48,162 INFO [Accenture] 264 new job(s)
+2026-11-02 21:03:59,207 INFO Found 8 jobs via link heuristics
+2026-11-02 21:03:59,210 INFO [Cognizant] 5 new job(s)
+2026-11-02 21:05:45,724 ERROR [Capgemini] could not fetch jobs: Page.goto: Timeout 100000ms exceeded.
+Call log:
+  - navigating to "https://www.capgemini.com/careers/", waiting until "networkidle"
+
+2026-11-02 21:05:50,426 INFO Found 3 jobs via link heuristics
+2026-11-02 21:05:50,427 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-11-02 21:05:56,381 INFO Found 10 jobs via link heuristics
+2026-11-02 21:05:56,383 INFO [JPMorgan Chase] 10 jobs, nothing new
+2026-11-02 21:07:39,039 ERROR [Goldman Sachs] could not fetch jobs: Page.goto: Timeout 100000ms exceeded.
+Call log:
+  - navigating to "https://www.goldmansachs.com/worldwide/india/careers/", waiting until "networkidle"
+
+2026-11-02 21:07:41,165 ERROR [Morgan Stanley] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.morganstanley.com/careers/career-opportunities-search/
+Call log:
+  - navigating to "https://www.morganstanley.com/careers/career-opportunities-search/", waiting until "networkidle"
+
+2026-11-02 21:08:54,268 INFO Detected workday board 'visa.wd5.myworkdayjobs.com' (832 jobs)
+2026-11-02 21:08:54,286 INFO [Visa] 5 new job(s)
+2026-11-02 21:10:45,303 INFO Detected workday board 'mastercard.wd1.myworkdayjobs.com' (1000 jobs)
+2026-11-02 21:10:45,323 INFO [Mastercard] 3 new job(s)
+2026-11-02 21:12:10,061 ERROR [Mastercard] email failed, will retry next run: Connection unexpectedly closed
+2026-11-02 21:13:25,727 INFO Found 2 jobs via link heuristics
+2026-11-02 21:13:25,731 INFO [PayPal] 2 jobs, nothing new
+2026-11-02 21:13:35,187 INFO Detected smartrecruiters board 'PHONEPELIMITED' (134 jobs)
+2026-11-02 21:13:35,190 INFO [PhonePe] 134 jobs, nothing new
+2026-11-02 21:13:43,774 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (28 jobs)
+2026-11-02 21:13:43,775 INFO [Razorpay] 1 new job(s)
+2026-11-02 21:13:55,037 INFO Found 3 jobs via link heuristics
+2026-11-02 21:13:55,039 INFO [Zoho] 3 jobs, nothing new
+2026-11-02 21:14:06,402 INFO Detected smartrecruiters board 'Freshworks' (123 jobs)
+2026-11-02 21:14:06,408 INFO [Freshworks] 123 jobs, nothing new
+2026-11-02 21:14:14,291 INFO Found 6 jobs via link heuristics
+2026-11-02 21:14:14,292 INFO [Mphasis] 6 jobs, nothing new
+2026-11-02 21:15:37,656 INFO Detected workday board 'genpact.wd108.myworkdayjobs.com' (1000 jobs)
+2026-11-02 21:15:37,670 INFO [Genpact] 25 new job(s)
+2026-11-02 21:15:45,127 INFO Found 0 jobs via link heuristics
+2026-11-02 21:15:45,128 WARNING [Rubrick] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 21:15:48,607 INFO Detected workday board 'kyndryl.wd5.myworkdayjobs.com' (30 jobs)
+2026-11-02 21:15:48,609 INFO [Kyndryl] 30 jobs, nothing new
+2026-11-02 21:16:01,410 INFO Found 1 jobs via JSON-LD
+2026-11-02 21:16:01,410 INFO [Ericsson] 1 jobs, nothing new
+2026-11-02 23:03:22,918 ERROR [Philips] could not fetch jobs: Page.goto: Timeout 100000ms exceeded.
+Call log:
+  - navigating to "https://www.careers.philips.com/in/en/search-results", waiting until "networkidle"
+
+2026-11-02 23:04:13,473 INFO Started. Checking every 3 hour(s).
+2026-11-02 23:05:42,929 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (997 jobs)
+2026-11-02 23:05:42,970 INFO [HPE] 2 new job(s)
+2026-11-02 23:08:00,613 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (999 jobs)
+2026-11-02 23:08:00,652 INFO [Target] 9 new job(s)
+2026-11-02 23:13:07,899 ERROR [IBM] could not fetch jobs: Page.goto: Timeout 300000ms exceeded.
+Call log:
+  - navigating to "https://www.ibm.com/in-en/careers/search", waiting until "networkidle"
+
+2026-11-02 23:13:20,552 INFO Found 1 jobs via JSON-LD
+2026-11-02 23:13:20,570 INFO [Qualcomm] 1 jobs, nothing new
+2026-11-02 23:13:30,991 INFO Found 3 jobs via link heuristics
+2026-11-02 23:13:30,994 INFO [Google] 3 jobs, nothing new
+2026-11-02 23:13:53,099 INFO [Amazon] 38 new job(s)
+2026-11-02 23:14:33,608 INFO Detected workday board 'adobe.wd5.myworkdayjobs.com' (279 jobs)
+2026-11-02 23:14:33,617 INFO [Adobe] 1 new job(s)
+2026-11-02 23:19:43,164 ERROR [Oracle] could not fetch jobs: Page.goto: Timeout 300000ms exceeded.
+Call log:
+  - navigating to "https://www.oracle.com/in/corporate/careers/", waiting until "networkidle"
+
+2026-11-02 23:19:51,577 INFO Found 13 jobs via link heuristics
+2026-11-02 23:19:51,593 INFO [SAP] 5 new job(s)
+2026-11-02 23:20:08,196 INFO Found 3 jobs via link heuristics
+2026-11-02 23:20:08,201 INFO [Cisco] 3 jobs, nothing new
+2026-11-02 23:20:14,780 INFO Found 20 jobs via link heuristics
+2026-11-02 23:20:14,783 INFO [NVIDIA] 20 jobs, nothing new
+2026-11-02 23:20:20,980 INFO Found 0 jobs via link heuristics
+2026-11-02 23:20:20,984 WARNING [Salesforce] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-02 23:25:23,604 ERROR [Atlassian] could not fetch jobs: Page.goto: Timeout 300000ms exceeded.
+Call log:
+  - navigating to "https://www.atlassian.com/company/careers", waiting until "networkidle"
+
+2026-11-02 23:30:26,368 ERROR [ABB] could not fetch jobs: Page.goto: Timeout 300000ms exceeded.
+Call log:
+  - navigating to "https://careers.abb/", waiting until "networkidle"
+
+2026-11-02 23:31:32,541 INFO Found 4 jobs via link heuristics
+2026-11-02 23:31:32,543 INFO [Siemens] 4 jobs, nothing new
+2026-11-02 23:31:43,175 INFO Found 7 jobs via link heuristics
+2026-11-02 23:31:43,177 INFO [Bosch] 7 jobs, nothing new
+2026-11-02 23:31:45,457 ERROR [Honeywell] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI
+Call log:
+  - navigating to "https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI", waiting until "networkidle"
+
+2026-11-02 23:31:46,892 ERROR [AMD] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.amd.com/en/corporate/careers.html
+Call log:
+  - navigating to "https://www.amd.com/en/corporate/careers.html", waiting until "networkidle"
+
+2026-11-02 23:36:48,430 ERROR [Cargill] could not fetch jobs: Page.goto: Timeout 300000ms exceeded.
+Call log:
+  - navigating to "https://careers.cargill.com/en/search-jobs/Bengaluru%2C%20Karnataka/23251/4/1269750-1267701-1277331-1277333/12x97194/77x59369/50/2", waiting until "networkidle"
+
+2026-11-02 23:38:32,314 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (1000 jobs)
+2026-11-02 23:38:32,347 INFO [Accenture] 96 new job(s)
+2026-11-02 23:38:44,891 INFO Found 8 jobs via link heuristics
+2026-11-02 23:38:44,895 INFO [Cognizant] 5 new job(s)
+2026-11-02 23:43:53,897 ERROR [Capgemini] could not fetch jobs: Page.goto: Timeout 300000ms exceeded.
+Call log:
+  - navigating to "https://www.capgemini.com/careers/", waiting until "networkidle"
+
+2026-11-02 23:43:58,710 INFO Found 3 jobs via link heuristics
+2026-11-02 23:43:58,711 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-11-03 09:06:19,720 INFO Started. Checking every 3 hour(s).
+2026-11-03 09:07:45,497 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-03 09:07:45,510 INFO [HPE] 25 new job(s)
+2026-11-03 09:09:47,431 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (999 jobs)
+2026-11-03 09:09:47,465 INFO [Target] 26 new job(s)
+2026-11-03 09:09:51,775 INFO Found 2 jobs via link heuristics
+2026-11-03 09:09:51,776 INFO [IBM] 2 jobs, nothing new
+2026-11-03 09:10:05,535 INFO Found 1 jobs via JSON-LD
+2026-11-03 09:10:05,537 INFO [Qualcomm] 1 jobs, nothing new
+2026-11-03 09:10:16,594 INFO Found 3 jobs via link heuristics
+2026-11-03 09:10:16,597 INFO [Google] 3 jobs, nothing new
+2026-11-03 09:10:31,095 INFO [Amazon] 101 new job(s)
+2026-11-03 09:11:06,600 INFO Detected workday board 'adobe.wd5.myworkdayjobs.com' (279 jobs)
+2026-11-03 09:11:06,613 INFO [Adobe] 4 new job(s)
+2026-11-03 09:11:10,676 INFO Found 21 jobs via link heuristics
+2026-11-03 09:11:10,677 INFO [Oracle] 21 jobs, nothing new
+2026-11-03 09:12:13,047 ERROR [SAP] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://jobs.sap.com/", waiting until "networkidle"
+
+2026-11-03 09:12:28,794 INFO Found 3 jobs via link heuristics
+2026-11-03 09:12:28,796 INFO [Cisco] 3 jobs, nothing new
+2026-11-03 09:12:31,528 INFO Found 20 jobs via link heuristics
+2026-11-03 09:12:31,529 INFO [NVIDIA] 20 jobs, nothing new
+2026-11-03 09:12:32,740 INFO Found 0 jobs via link heuristics
+2026-11-03 09:12:32,741 WARNING [Salesforce] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 09:12:33,536 INFO Found 16 jobs via link heuristics
+2026-11-03 09:12:33,538 INFO [Atlassian] 16 jobs, nothing new
+2026-11-03 09:13:34,186 ERROR [ABB] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.abb/", waiting until "networkidle"
+
+2026-11-03 09:14:35,160 ERROR [Siemens] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://jobs.siemens.com/", waiting until "networkidle"
+
+2026-11-03 09:14:44,444 INFO Found 7 jobs via link heuristics
+2026-11-03 09:14:44,444 INFO [Bosch] 7 jobs, nothing new
+2026-11-03 09:14:45,568 ERROR [Honeywell] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI
+Call log:
+  - navigating to "https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI", waiting until "networkidle"
+
+2026-11-03 09:14:46,279 ERROR [AMD] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.amd.com/en/corporate/careers.html
+Call log:
+  - navigating to "https://www.amd.com/en/corporate/careers.html", waiting until "networkidle"
+
+2026-11-03 09:15:46,908 ERROR [Cargill] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.cargill.com/en/search-jobs/Bengaluru%2C%20Karnataka/23251/4/1269750-1267701-1277331-1277333/12x97194/77x59369/50/2", waiting until "networkidle"
+
+2026-11-03 09:17:25,357 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (1000 jobs)
+2026-11-03 09:17:25,368 INFO [Accenture] 62 new job(s)
+2026-11-03 09:17:34,499 INFO Found 8 jobs via link heuristics
+2026-11-03 09:17:34,509 INFO [Cognizant] 5 new job(s)
+2026-11-03 09:18:39,822 ERROR [Capgemini] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.capgemini.com/careers/", waiting until "networkidle"
+
+2026-11-03 09:18:42,885 INFO Found 3 jobs via link heuristics
+2026-11-03 09:18:42,886 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-11-03 09:19:43,504 ERROR [JPMorgan Chase] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.jpmorganchase.com/careers/explore-opportunities", waiting until "networkidle"
+
+2026-11-03 09:20:44,549 ERROR [Goldman Sachs] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.goldmansachs.com/worldwide/india/careers/", waiting until "networkidle"
+
+2026-11-03 09:20:45,660 ERROR [Morgan Stanley] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.morganstanley.com/careers/career-opportunities-search/
+Call log:
+  - navigating to "https://www.morganstanley.com/careers/career-opportunities-search/", waiting until "networkidle"
+
+2026-11-03 09:21:50,006 INFO Detected workday board 'visa.wd5.myworkdayjobs.com' (830 jobs)
+2026-11-03 09:21:50,013 INFO [Visa] 7 new job(s)
+2026-11-03 09:23:32,590 INFO Detected workday board 'mastercard.wd1.myworkdayjobs.com' (1000 jobs)
+2026-11-03 09:23:32,600 INFO [Mastercard] 10 new job(s)
+2026-11-03 09:24:37,155 ERROR [PayPal] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.paypal.com/us/webapps/mpp/jobs", waiting until "networkidle"
+
+2026-11-03 09:24:43,603 INFO Detected smartrecruiters board 'PHONEPELIMITED' (134 jobs)
+2026-11-03 09:24:43,604 INFO [PhonePe] 134 jobs, nothing new
+2026-11-03 09:24:49,220 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (28 jobs)
+2026-11-03 09:24:49,221 INFO [Razorpay] 28 jobs, nothing new
+2026-11-03 09:24:52,933 INFO Found 3 jobs via link heuristics
+2026-11-03 09:24:52,934 INFO [Zoho] 3 jobs, nothing new
+2026-11-03 09:25:00,954 INFO Detected smartrecruiters board 'Freshworks' (123 jobs)
+2026-11-03 09:25:00,956 INFO [Freshworks] 123 jobs, nothing new
+2026-11-03 09:25:06,438 INFO Found 6 jobs via link heuristics
+2026-11-03 09:25:06,439 INFO [Mphasis] 6 jobs, nothing new
+2026-11-03 09:26:20,752 INFO Detected workday board 'genpact.wd108.myworkdayjobs.com' (1000 jobs)
+2026-11-03 09:26:20,761 INFO [Genpact] 6 new job(s)
+2026-11-03 09:26:26,065 INFO Found 0 jobs via link heuristics
+2026-11-03 09:26:26,065 WARNING [Rubrick] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 09:26:29,057 INFO Detected workday board 'kyndryl.wd5.myworkdayjobs.com' (29 jobs)
+2026-11-03 09:26:29,060 INFO [Kyndryl] 29 jobs, nothing new
+2026-11-03 09:26:35,184 INFO Found 1 jobs via JSON-LD
+2026-11-03 09:26:35,185 INFO [Ericsson] 1 jobs, nothing new
+2026-11-03 09:27:36,302 ERROR [Philips] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.careers.philips.com/in/en/search-results", waiting until "networkidle"
+
+2026-11-03 09:27:38,870 INFO Found 21 jobs via link heuristics
+2026-11-03 09:27:38,871 INFO [Wells Fargo] 6 new job(s)
+2026-11-03 09:27:48,641 INFO Found 23 jobs via link heuristics
+2026-11-03 09:27:48,643 INFO [Stripe] 1 new job(s)
+2026-11-03 09:27:53,946 INFO Found 0 jobs via link heuristics
+2026-11-03 09:27:53,946 WARNING [Myntra] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 09:27:59,817 INFO Detected workday board 'jiostar.wd102.myworkdayjobs.com' (232 jobs)
+2026-11-03 09:27:59,824 INFO [Jio] 2 new job(s)
+2026-11-03 09:28:05,162 INFO Found 0 jobs via link heuristics
+2026-11-03 09:28:05,162 WARNING [Cohesity] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 09:28:06,596 INFO Found 0 jobs via link heuristics
+2026-11-03 09:28:06,596 WARNING [Akamai] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 09:28:12,662 INFO Found 46 jobs via link heuristics
+2026-11-03 09:28:12,663 INFO [NatWest Group] 2 new job(s)
+2026-11-03 09:29:49,198 INFO Detected workday board 'iqvia.wd1.myworkdayjobs.com' (1000 jobs)
+2026-11-03 09:29:49,210 INFO [IQVIA] 34 new job(s)
+2026-11-03 09:29:54,725 INFO Detected smartrecruiters board 'TheNielsenCompany' (115 jobs)
+2026-11-03 09:29:54,726 INFO [Nielsen] 3 new job(s)
+2026-11-03 09:30:44,947 INFO Detected workday board 'lseg.wd3.myworkdayjobs.com' (667 jobs)
+2026-11-03 09:30:44,953 INFO [LSEG] 8 new job(s)
+2026-11-03 09:30:55,436 INFO Found 27 jobs via link heuristics
+2026-11-03 09:30:55,437 INFO [Optum] 27 jobs, nothing new
+2026-11-03 09:32:06,158 INFO Detected workday board 'lowes.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-03 09:32:06,166 INFO [Lowes] 373 new job(s)
+2026-11-03 09:32:09,927 INFO Run finished successfully at 2026-11-03 09:32:09
+2026-11-03 11:52:06,822 INFO Started. Checking every 3 hour(s).
+2026-11-03 11:53:34,297 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-03 11:53:34,320 INFO [HPE] 1000 jobs, nothing new
+2026-11-03 11:55:37,869 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-03 11:55:37,890 INFO [Target] 18 new job(s)
+2026-11-03 11:55:42,874 INFO Found 2 jobs via link heuristics
+2026-11-03 11:55:42,875 INFO [IBM] 2 jobs, nothing new
+2026-11-03 11:55:49,955 INFO Found 1 jobs via JSON-LD
+2026-11-03 11:55:49,955 INFO [Qualcomm] 1 jobs, nothing new
+2026-11-03 11:56:00,445 INFO Found 3 jobs via link heuristics
+2026-11-03 11:56:00,445 INFO [Google] 3 jobs, nothing new
+2026-11-03 11:56:18,356 INFO [Amazon] 26 new job(s)
+2026-11-03 11:56:57,632 INFO Detected workday board 'adobe.wd5.myworkdayjobs.com' (278 jobs)
+2026-11-03 11:56:57,632 INFO [Adobe] 278 jobs, nothing new
+2026-11-03 11:56:58,063 INFO Found 21 jobs via link heuristics
+2026-11-03 11:56:58,063 INFO [Oracle] 21 jobs, nothing new
+2026-11-03 11:57:08,065 INFO Found 13 jobs via link heuristics
+2026-11-03 11:57:08,075 INFO [SAP] 5 new job(s)
+2026-11-03 11:57:26,360 INFO Found 3 jobs via link heuristics
+2026-11-03 11:57:26,377 INFO [Cisco] 3 jobs, nothing new
+2026-11-03 11:57:33,514 INFO Found 20 jobs via link heuristics
+2026-11-03 11:57:33,514 INFO [NVIDIA] 20 jobs, nothing new
+2026-11-03 11:57:37,541 INFO Found 0 jobs via link heuristics
+2026-11-03 11:57:37,541 WARNING [Salesforce] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 11:57:39,140 INFO Found 16 jobs via link heuristics
+2026-11-03 11:57:39,140 INFO [Atlassian] 16 jobs, nothing new
+2026-11-03 11:58:41,494 ERROR [ABB] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.abb/", waiting until "networkidle"
+
+2026-11-03 11:59:44,934 ERROR [Siemens] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://jobs.siemens.com/", waiting until "networkidle"
+
+2026-11-03 11:59:56,002 INFO Found 7 jobs via link heuristics
+2026-11-03 11:59:56,002 INFO [Bosch] 7 jobs, nothing new
+2026-11-03 11:59:59,546 ERROR [Honeywell] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI
+Call log:
+  - navigating to "https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI", waiting until "networkidle"
+
+2026-11-03 12:00:03,124 ERROR [AMD] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.amd.com/en/corporate/careers.html
+Call log:
+  - navigating to "https://www.amd.com/en/corporate/careers.html", waiting until "networkidle"
+
+2026-11-03 12:01:05,822 ERROR [Cargill] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.cargill.com/en/search-jobs/Bengaluru%2C%20Karnataka/23251/4/1269750-1267701-1277331-1277333/12x97194/77x59369/50/2", waiting until "networkidle"
+
+2026-11-03 12:02:55,209 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (1000 jobs)
+2026-11-03 12:02:55,241 INFO [Accenture] 210 new job(s)
+2026-11-03 12:03:07,641 INFO Found 8 jobs via link heuristics
+2026-11-03 12:03:07,641 INFO [Cognizant] 5 new job(s)
+2026-11-03 12:04:15,194 ERROR [Capgemini] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.capgemini.com/careers/", waiting until "networkidle"
+
+2026-11-03 12:04:22,039 INFO Found 3 jobs via link heuristics
+2026-11-03 12:04:22,039 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-11-03 12:05:25,348 ERROR [JPMorgan Chase] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.jpmorganchase.com/careers/explore-opportunities", waiting until "networkidle"
+
+2026-11-03 12:05:34,548 INFO Found 23 jobs via link heuristics
+2026-11-03 12:05:34,548 INFO [Goldman Sachs] 23 jobs, nothing new
+2026-11-03 12:05:38,092 ERROR [Morgan Stanley] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.morganstanley.com/careers/career-opportunities-search/
+Call log:
+  - navigating to "https://www.morganstanley.com/careers/career-opportunities-search/", waiting until "networkidle"
+
+2026-11-03 12:06:48,326 INFO Detected workday board 'visa.wd5.myworkdayjobs.com' (831 jobs)
+2026-11-03 12:06:48,341 INFO [Visa] 2 new job(s)
+2026-11-03 12:08:33,234 INFO Detected workday board 'mastercard.wd1.myworkdayjobs.com' (1000 jobs)
+2026-11-03 12:08:33,251 INFO [Mastercard] 4 new job(s)
+2026-11-03 12:08:51,067 INFO Found 2 jobs via link heuristics
+2026-11-03 12:08:51,067 INFO [PayPal] 2 jobs, nothing new
+2026-11-03 12:09:04,783 INFO Detected smartrecruiters board 'PHONEPELIMITED' (135 jobs)
+2026-11-03 12:09:04,783 INFO [PhonePe] 1 new job(s)
+2026-11-03 12:09:21,393 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (27 jobs)
+2026-11-03 12:09:21,393 INFO [Razorpay] 1 new job(s)
+2026-11-03 12:09:33,638 INFO Found 3 jobs via link heuristics
+2026-11-03 12:09:33,642 INFO [Zoho] 3 jobs, nothing new
+2026-11-03 12:09:55,468 INFO Detected smartrecruiters board 'Freshworks' (123 jobs)
+2026-11-03 12:09:55,470 INFO [Freshworks] 123 jobs, nothing new
+2026-11-03 12:10:04,524 INFO Found 6 jobs via link heuristics
+2026-11-03 12:10:04,526 INFO [Mphasis] 6 jobs, nothing new
+2026-11-03 12:11:27,937 INFO Detected workday board 'genpact.wd108.myworkdayjobs.com' (1000 jobs)
+2026-11-03 12:11:27,963 INFO [Genpact] 5 new job(s)
+2026-11-03 12:11:36,303 INFO Found 0 jobs via link heuristics
+2026-11-03 12:11:36,303 WARNING [Rubrick] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 12:11:39,659 INFO Detected workday board 'kyndryl.wd5.myworkdayjobs.com' (29 jobs)
+2026-11-03 12:11:39,659 INFO [Kyndryl] 29 jobs, nothing new
+2026-11-03 12:11:53,485 INFO Found 1 jobs via JSON-LD
+2026-11-03 12:11:53,485 INFO [Ericsson] 1 jobs, nothing new
+2026-11-03 12:12:57,568 ERROR [Philips] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.careers.philips.com/in/en/search-results", waiting until "networkidle"
+
+2026-11-03 12:13:03,545 INFO Found 21 jobs via link heuristics
+2026-11-03 12:13:03,545 INFO [Wells Fargo] 8 new job(s)
+2026-11-03 12:13:14,963 INFO Found 8 jobs via link heuristics
+2026-11-03 12:13:14,963 INFO [Stripe] 8 jobs, nothing new
+2026-11-03 12:13:18,549 INFO Found 0 jobs via link heuristics
+2026-11-03 12:13:18,549 WARNING [Myntra] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 12:13:24,970 INFO Detected workday board 'jiostar.wd102.myworkdayjobs.com' (234 jobs)
+2026-11-03 12:13:24,979 INFO [Jio] 3 new job(s)
+2026-11-03 12:13:33,363 INFO Found 0 jobs via link heuristics
+2026-11-03 12:13:33,363 WARNING [Cohesity] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 12:13:36,467 INFO Found 0 jobs via link heuristics
+2026-11-03 12:13:36,467 WARNING [Akamai] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 12:13:47,862 INFO Found 49 jobs via link heuristics
+2026-11-03 12:13:47,879 INFO [NatWest Group] 5 new job(s)
+2026-11-03 12:15:31,034 INFO Detected workday board 'iqvia.wd1.myworkdayjobs.com' (999 jobs)
+2026-11-03 12:15:31,053 INFO [IQVIA] 2 new job(s)
+2026-11-03 12:15:36,973 INFO Detected smartrecruiters board 'TheNielsenCompany' (115 jobs)
+2026-11-03 12:15:36,977 INFO [Nielsen] 115 jobs, nothing new
+2026-11-03 12:16:30,307 INFO Detected workday board 'lseg.wd3.myworkdayjobs.com' (670 jobs)
+2026-11-03 12:16:30,321 INFO [LSEG] 4 new job(s)
+2026-11-03 12:16:46,706 INFO Found 27 jobs via link heuristics
+2026-11-03 12:16:46,706 INFO [Optum] 27 jobs, nothing new
+2026-11-03 12:18:03,844 INFO Detected workday board 'lowes.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-03 12:18:03,869 INFO [Lowes] 999 new job(s)
+2026-11-03 12:18:07,956 INFO Run finished successfully at 2026-11-03 12:18:07
+2026-11-03 13:00:41,208 INFO Started. Checking every 3 hour(s).
+2026-11-03 13:00:41,227 INFO Fetching 51 companies with up to 5 workers
+2026-11-03 13:00:41,558 INFO Found 2 jobs via link heuristics
+2026-11-03 13:00:41,602 INFO [IBM] 2 jobs, nothing new
+2026-11-03 13:00:53,328 INFO Found 1 jobs via JSON-LD
+2026-11-03 13:00:53,331 INFO [Qualcomm] 1 jobs, nothing new
+2026-11-03 13:00:58,954 INFO [Amazon] 1000 jobs, nothing new
+2026-11-03 13:00:59,286 INFO Found 21 jobs via link heuristics
+2026-11-03 13:00:59,297 INFO [Oracle] 21 jobs, nothing new
+2026-11-03 13:01:02,828 INFO Found 3 jobs via link heuristics
+2026-11-03 13:01:02,830 INFO [Google] 3 jobs, nothing new
+2026-11-03 13:01:03,978 INFO Found 13 jobs via link heuristics
+2026-11-03 13:01:03,978 INFO [SAP] 1 new job(s)
+2026-11-03 13:01:07,155 INFO Found 20 jobs via link heuristics
+2026-11-03 13:01:08,141 INFO [NVIDIA] 20 jobs, nothing new
+2026-11-03 13:01:08,853 INFO Found 0 jobs via link heuristics
+2026-11-03 13:01:08,854 WARNING [Salesforce] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 13:01:09,892 INFO Found 16 jobs via link heuristics
+2026-11-03 13:01:09,894 INFO [Atlassian] 16 jobs, nothing new
+2026-11-03 13:01:11,215 INFO Found 0 jobs via link heuristics
+2026-11-03 13:01:11,219 WARNING [ABB] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 13:01:12,598 INFO Found 4 jobs via link heuristics
+2026-11-03 13:01:12,601 INFO [Siemens] 4 jobs, nothing new
+2026-11-03 13:01:17,889 INFO Found 3 jobs via link heuristics
+2026-11-03 13:01:17,889 INFO [Cisco] 3 jobs, nothing new
+2026-11-03 13:01:18,787 INFO Found 0 jobs via link heuristics
+2026-11-03 13:01:18,788 WARNING [Honeywell] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 13:01:21,427 ERROR [AMD] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.amd.com/en/corporate/careers.html
+Call log:
+  - navigating to "https://www.amd.com/en/corporate/careers.html", waiting until "networkidle"
+
+2026-11-03 13:01:21,820 INFO Found 7 jobs via link heuristics
+2026-11-03 13:01:21,836 INFO [Bosch] 7 jobs, nothing new
+2026-11-03 13:01:22,409 INFO Detected workday board 'adobe.wd5.myworkdayjobs.com' (278 jobs)
+2026-11-03 13:01:22,419 INFO [Adobe] 278 jobs, nothing new
+2026-11-03 13:01:26,893 INFO Found 8 jobs via link heuristics
+2026-11-03 13:01:26,896 INFO [Cognizant] 5 new job(s)
+2026-11-03 13:01:43,748 ERROR [Target] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://indiajobs.target.com/search-jobs?k=&fl=1269750", waiting until "networkidle"
+
+2026-11-03 13:01:47,310 INFO Found 3 jobs via link heuristics
+2026-11-03 13:01:47,314 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-11-03 13:02:09,530 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-03 13:02:09,549 INFO [HPE] 2 new job(s)
+2026-11-03 13:02:15,714 INFO Found 23 jobs via link heuristics
+2026-11-03 13:02:15,718 INFO [Goldman Sachs] 23 jobs, nothing new
+2026-11-03 13:02:16,413 INFO Found 1 jobs via link heuristics
+2026-11-03 13:02:16,418 INFO [Morgan Stanley] 1 jobs, nothing new
+2026-11-03 13:02:22,230 ERROR [Cargill] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.cargill.com/en/search-jobs/India/23251/2/1269750/22/79/50/2", waiting until "networkidle"
+
+2026-11-03 13:02:27,587 ERROR [Capgemini] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.capgemini.com/careers/", waiting until "networkidle"
+
+2026-11-03 13:02:48,046 ERROR [JPMorgan Chase] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.jpmorganchase.com/careers/explore-opportunities", waiting until "networkidle"
+
+2026-11-03 13:02:54,594 INFO Detected smartrecruiters board 'PHONEPELIMITED' (136 jobs)
+2026-11-03 13:02:54,595 INFO [PhonePe] 1 new job(s)
+2026-11-03 13:03:00,644 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (27 jobs)
+2026-11-03 13:03:00,645 INFO [Razorpay] 27 jobs, nothing new
+2026-11-03 13:03:05,622 INFO Found 3 jobs via link heuristics
+2026-11-03 13:03:05,625 INFO [Zoho] 3 jobs, nothing new
+2026-11-03 13:03:08,443 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (1000 jobs)
+2026-11-03 13:03:08,460 INFO [Accenture] 48 new job(s)
+2026-11-03 13:03:15,560 INFO Found 6 jobs via link heuristics
+2026-11-03 13:03:15,562 INFO [Mphasis] 6 jobs, nothing new
+2026-11-03 13:03:18,669 INFO Detected smartrecruiters board 'Freshworks' (123 jobs)
+2026-11-03 13:03:18,671 INFO [Freshworks] 123 jobs, nothing new
+2026-11-03 13:03:19,891 INFO Found 0 jobs via link heuristics
+2026-11-03 13:03:19,892 WARNING [Rubrick] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 13:03:23,349 INFO Detected workday board 'kyndryl.wd5.myworkdayjobs.com' (29 jobs)
+2026-11-03 13:03:23,356 INFO [Kyndryl] 29 jobs, nothing new
+2026-11-03 13:03:24,267 INFO Detected workday board 'visa.wd5.myworkdayjobs.com' (832 jobs)
+2026-11-03 13:03:24,280 INFO [Visa] 1 new job(s)
+2026-11-03 13:03:27,010 INFO Found 21 jobs via link heuristics
+2026-11-03 13:03:28,508 ERROR [PayPal] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.paypal.com/us/webapps/mpp/jobs", waiting until "networkidle"
+
+2026-11-03 13:03:31,733 INFO Found 1 jobs via JSON-LD
+2026-11-03 13:03:31,833 INFO Found 0 jobs via link heuristics
+2026-11-03 13:03:33,271 INFO Found 0 jobs via link heuristics
+2026-11-03 13:03:34,119 INFO Found 23 jobs via link heuristics
+2026-11-03 13:03:34,857 INFO Found 0 jobs via link heuristics
+2026-11-03 13:03:42,935 INFO Found 50 jobs via link heuristics
+2026-11-03 13:03:43,091 INFO Detected workday board 'jiostar.wd102.myworkdayjobs.com' (234 jobs)
+2026-11-03 13:03:44,563 INFO Detected smartrecruiters board 'TheNielsenCompany' (115 jobs)
+2026-11-03 13:03:55,109 INFO Found 27 jobs via link heuristics
+2026-11-03 13:03:56,091 INFO Detected workday board 'mastercard.wd1.myworkdayjobs.com' (1000 jobs)
+2026-11-03 13:04:30,416 INFO Detected workday board 'genpact.wd108.myworkdayjobs.com' (1000 jobs)
+2026-11-03 13:04:31,046 INFO Detected workday board 'lseg.wd3.myworkdayjobs.com' (672 jobs)
+2026-11-03 13:05:04,050 INFO Detected workday board 'iqvia.wd1.myworkdayjobs.com' (1000 jobs)
+2026-11-03 13:05:05,830 INFO Detected workday board 'lowes.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-03 13:05:05,836 ERROR Unexpected error in run
+Traceback (most recent call last):
+  File "C:\JOB_MONITOR\job_monitor\main.py", line 152, in main
+    run_once(cfg)
+  File "C:\JOB_MONITOR\job_monitor\main.py", line 107, in run_once
+    jobs = future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\concurrent\futures\_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python311\Lib\concurrent\futures\_base.py", line 401, in __get_result
+    raise self._exception
+  File "C:\Program Files\Python311\Lib\concurrent\futures\thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\JOB_MONITOR\job_monitor\main.py", line 46, in fetch_company_jobs
+    url = company["careers_url"]
+          ~~~~~~~^^^^^^^^^^^^^^^
+KeyError: 'careers_url'
+2026-11-03 13:06:54,138 INFO Started. Checking every 3 hour(s).
+2026-11-03 13:06:54,146 INFO Fetching 51 companies with up to 5 workers
+2026-11-03 13:06:54,376 INFO Found 2 jobs via link heuristics
+2026-11-03 13:06:54,382 INFO [IBM] 2 jobs, nothing new
+2026-11-03 13:07:11,549 INFO Found 3 jobs via link heuristics
+2026-11-03 13:07:11,562 INFO [Google] 3 jobs, nothing new
+2026-11-03 13:07:11,799 INFO Found 1 jobs via JSON-LD
+2026-11-03 13:07:11,804 INFO [Qualcomm] 1 jobs, nothing new
+2026-11-03 13:07:12,077 INFO Found 21 jobs via link heuristics
+2026-11-03 13:07:12,079 INFO [Oracle] 21 jobs, nothing new
+2026-11-03 13:07:18,719 INFO Found 13 jobs via link heuristics
+2026-11-03 13:07:18,726 INFO [SAP] 13 jobs, nothing new
+2026-11-03 13:07:19,170 INFO [Amazon] 1000 jobs, nothing new
+2026-11-03 13:07:23,508 INFO Found 20 jobs via link heuristics
+2026-11-03 13:07:23,511 INFO [NVIDIA] 20 jobs, nothing new
+2026-11-03 13:07:25,258 INFO Found 0 jobs via link heuristics
+2026-11-03 13:07:25,259 WARNING [Salesforce] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 13:07:26,566 INFO Found 16 jobs via link heuristics
+2026-11-03 13:07:26,568 INFO [Atlassian] 16 jobs, nothing new
+2026-11-03 13:07:28,688 INFO Found 0 jobs via link heuristics
+2026-11-03 13:07:28,688 WARNING [ABB] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 13:07:28,990 INFO Found 3 jobs via link heuristics
+2026-11-03 13:07:29,005 INFO [Cisco] 3 jobs, nothing new
+2026-11-03 13:07:30,262 INFO Found 4 jobs via link heuristics
+2026-11-03 13:07:30,262 INFO [Siemens] 4 jobs, nothing new
+2026-11-03 13:07:31,090 ERROR [Honeywell] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://careers.honeywell.com/en/sites/Honeywell/jobs?location=India&locationId=300000000469485&locationLevel=country&mode=location
+Call log:
+  - navigating to "https://careers.honeywell.com/en/sites/Honeywell/jobs?location=India&locationId=300000000469485&locationLevel=country&mode=location", waiting until "networkidle"
+
+2026-11-03 13:07:31,957 ERROR [AMD] could not fetch jobs: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.amd.com/en/corporate/careers.html
+Call log:
+  - navigating to "https://www.amd.com/en/corporate/careers.html", waiting until "networkidle"
+
+2026-11-03 13:07:32,862 INFO Found 7 jobs via link heuristics
+2026-11-03 13:07:32,864 INFO [Bosch] 7 jobs, nothing new
+2026-11-03 13:07:44,764 INFO Detected workday board 'adobe.wd5.myworkdayjobs.com' (277 jobs)
+2026-11-03 13:07:44,771 INFO [Adobe] 277 jobs, nothing new
+2026-11-03 13:07:50,088 INFO Found 8 jobs via link heuristics
+2026-11-03 13:07:50,092 INFO [Cognizant] 8 jobs, nothing new
+2026-11-03 13:08:25,589 INFO Detected workday board 'hpe.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-03 13:08:25,606 INFO [HPE] 1 new job(s)
+2026-11-03 13:08:29,341 INFO Found 3 jobs via link heuristics
+2026-11-03 13:08:29,387 INFO [Tech Mahindra] 3 jobs, nothing new
+2026-11-03 13:08:33,380 ERROR [Cargill] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://careers.cargill.com/en/search-jobs/India/23251/2/1269750/22/79/50/2", waiting until "networkidle"
+
+2026-11-03 13:08:34,803 INFO Found 10 jobs via link heuristics
+2026-11-03 13:08:34,806 INFO [JPMorgan Chase] 10 jobs, nothing new
+2026-11-03 13:08:35,598 INFO Found 1 jobs via link heuristics
+2026-11-03 13:08:35,603 INFO [Morgan Stanley] 1 jobs, nothing new
+2026-11-03 13:08:51,624 ERROR [Capgemini] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.capgemini.com/careers/", waiting until "networkidle"
+
+2026-11-03 13:09:00,472 INFO Detected workday board 'target.wd5.myworkdayjobs.com' (999 jobs)
+2026-11-03 13:09:00,482 INFO [Target] 1 new job(s)
+2026-11-03 13:09:16,135 INFO Detected workday board 'accenture.wd103.myworkdayjobs.com' (1000 jobs)
+2026-11-03 13:09:16,177 INFO [Accenture] 9 new job(s)
+2026-11-03 13:09:23,925 INFO Detected smartrecruiters board 'PHONEPELIMITED' (136 jobs)
+2026-11-03 13:09:23,927 INFO [PhonePe] 136 jobs, nothing new
+2026-11-03 13:09:35,612 ERROR [Goldman Sachs] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.goldmansachs.com/worldwide/india/careers/", waiting until "networkidle"
+
+2026-11-03 13:09:36,503 INFO Detected greenhouse board 'razorpaysoftwareprivatelimited' (27 jobs)
+2026-11-03 13:09:36,504 INFO [Razorpay] 27 jobs, nothing new
+2026-11-03 13:09:41,310 INFO Found 3 jobs via link heuristics
+2026-11-03 13:09:41,314 INFO [Zoho] 3 jobs, nothing new
+2026-11-03 13:09:46,636 INFO Detected workday board 'visa.wd5.myworkdayjobs.com' (831 jobs)
+2026-11-03 13:09:46,692 INFO [Visa] 831 jobs, nothing new
+2026-11-03 13:09:49,663 INFO Found 6 jobs via link heuristics
+2026-11-03 13:09:49,666 INFO [Mphasis] 6 jobs, nothing new
+2026-11-03 13:09:52,424 INFO Found 0 jobs via link heuristics
+2026-11-03 13:09:52,424 WARNING [Rubrick] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 13:09:52,756 INFO Detected smartrecruiters board 'Freshworks' (123 jobs)
+2026-11-03 13:09:52,756 INFO [Freshworks] 123 jobs, nothing new
+2026-11-03 13:09:55,939 INFO Detected workday board 'kyndryl.wd5.myworkdayjobs.com' (29 jobs)
+2026-11-03 13:09:55,945 INFO [Kyndryl] 29 jobs, nothing new
+2026-11-03 13:10:02,787 INFO Found 1 jobs via JSON-LD
+2026-11-03 13:10:02,788 INFO [Ericsson] 1 jobs, nothing new
+2026-11-03 13:10:02,909 ERROR [PayPal] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.paypal.com/us/webapps/mpp/jobs", waiting until "networkidle"
+
+2026-11-03 13:10:10,849 INFO Found 21 jobs via link heuristics
+2026-11-03 13:10:10,855 INFO [Wells Fargo] 21 jobs, nothing new
+2026-11-03 13:10:13,963 INFO Found 0 jobs via link heuristics
+2026-11-03 13:10:13,963 WARNING [Myntra] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 13:10:14,271 INFO Found 23 jobs via link heuristics
+2026-11-03 13:10:14,271 INFO [Stripe] 23 jobs, nothing new
+2026-11-03 13:10:16,365 INFO Found 0 jobs via link heuristics
+2026-11-03 13:10:16,365 WARNING [Cohesity] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 13:10:19,024 INFO Found 0 jobs via link heuristics
+2026-11-03 13:10:19,024 WARNING [Akamai] no jobs found. Check the URL, add keywords less strictly, or set render_js: true if the page needs JavaScript.
+2026-11-03 13:10:20,530 INFO Detected workday board 'jiostar.wd102.myworkdayjobs.com' (234 jobs)
+2026-11-03 13:10:20,536 INFO [Jio] 1 new job(s)
+2026-11-03 13:10:29,083 INFO Detected workday board 'mastercard.wd1.myworkdayjobs.com' (1000 jobs)
+2026-11-03 13:10:29,117 INFO [Mastercard] 1 new job(s)
+2026-11-03 13:10:30,817 INFO Detected smartrecruiters board 'TheNielsenCompany' (115 jobs)
+2026-11-03 13:10:30,945 INFO Found 50 jobs via link heuristics
+2026-11-03 13:10:32,761 INFO [Nielsen] 115 jobs, nothing new
+2026-11-03 13:10:32,802 INFO [NatWest Group] 3 new job(s)
+2026-11-03 13:10:41,344 INFO Found 27 jobs via link heuristics
+2026-11-03 13:10:41,345 INFO [Optum] 1 new job(s)
+2026-11-03 13:10:59,031 ERROR [Philips] could not fetch jobs: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://www.careers.philips.com/in/en/search-results", waiting until "networkidle"
+
+2026-11-03 13:11:05,281 INFO Detected workday board 'genpact.wd108.myworkdayjobs.com' (1000 jobs)
+2026-11-03 13:11:05,327 INFO [Genpact] 4 new job(s)
+2026-11-03 13:11:20,331 INFO Detected workday board 'lseg.wd3.myworkdayjobs.com' (672 jobs)
+2026-11-03 13:11:20,336 INFO [LSEG] 2 new job(s)
+2026-11-03 13:11:49,424 INFO Detected workday board 'iqvia.wd1.myworkdayjobs.com' (1000 jobs)
+2026-11-03 13:11:49,443 INFO [IQVIA] 3 new job(s)
+2026-11-03 13:11:55,670 INFO Detected workday board 'lowes.wd5.myworkdayjobs.com' (1000 jobs)
+2026-11-03 13:11:55,708 INFO [Lowes] 547 new job(s)
+2026-11-03 13:11:59,237 INFO Run finished successfully at 2026-11-03 13:11:59
