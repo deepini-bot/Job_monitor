@@ -183,3 +183,6 @@ companies:
   - name: Athenahealth
     careers_url: https://athenahealth.wd1.myworkdayjobs.com/External
     render_js: true
+  - name: HP
+    careers_url: https://apply.hp.com/careers?start=0&location=India&pid=28344607&sort_by=distance&filter_include_remote=1&filter_include_relocation=0
+    render_js: true
