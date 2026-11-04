@@ -1,6 +1,9 @@
 # How often to check, in hours
 check_interval_hours: 3
 
+# Number of company careers pages to fetch concurrently
+max_concurrent_companies: 5
+
 # SQLite file used to remember jobs already seen
 database_path: jobs.db
 
@@ -25,18 +28,18 @@ companies:
     careers_url: https://hpe.wd5.myworkdayjobs.com/Jobsathpe
     render_js: true
   - name: Target
-    careers_url: https://indiajobs.target.com/search-jobs?k=india&fl=1269750
+    careers_url: https://corporate.target.com/careers/job-search?currentPage=1&lat=12.9753&lon=77.591&location=Bengaluru%2C%20KA%20562130
     render_js: true
   - name: IBM
-    careers_url: https://www.ibm.com/in-en/careers/search
-    render_js: true
+    careers_url: https://www.ibm.com/in-en/careers/search?field_keyword_05[0]=India
+    #render_js: true
   - name: Qualcomm
     careers_url: https://careers.qualcomm.com/careers?start=0&pid=446721467716&sort_by=timestamp
     render_js: true
   - name: Google
     careers_url: https://careers.google.com/
     render_js: true
-  - name: Amazon            # searched via Amazon's own search API, India only
+  - name: Amazon           
     careers_url: https://www.amazon.jobs/en/
     render_js: true
   - name: Adobe
@@ -44,7 +47,7 @@ companies:
     render_js: true 
   - name: Oracle
     careers_url: https://www.oracle.com/in/corporate/careers/
-    render_js: true
+    #render_js: true
   - name: SAP
     careers_url: https://jobs.sap.com/
     render_js: true
@@ -55,28 +58,28 @@ companies:
     careers_url: https://www.nvidia.com/en-in/about-nvidia/careers/
     render_js: true
   - name: Salesforce
-    careers_url: https://careers.salesforce.com/
+    careers_url: https://www.salesforce.com/company/careers/jobs/?country=India
     render_js: true
   - name: Atlassian
     careers_url: https://www.atlassian.com/company/careers
-    render_js: true
+    #render_js: true
   - name: ABB
     careers_url: https://careers.abb/
-    render_js: true
+    #render_js: true
   - name: Siemens
     careers_url: https://jobs.siemens.com/
-    render_js: true
+    #render_js: true
   - name: Bosch
     careers_url: https://www.bosch.in/careers/
     render_js: true
   - name: Honeywell
-    careers_url: https://careers.honeywell.com/en/sites/Honeywell/jobs?location=Bengaluru%2C+Karnataka%2C+India&locationId=100000013395554&locationLevel=city&mode=location&radius=25&radiusUnit=MI
+    careers_url: https://careers.honeywell.com/en/sites/Honeywell/jobs?location=India&locationId=300000000469485&locationLevel=country&mode=location
     render_js: true
   - name: AMD
     careers_url: https://www.amd.com/en/corporate/careers.html
     render_js: true
-  - name: Cargill   # Workday board, uses its JSON API
-    careers_url: https://careers.cargill.com/en/search-jobs/Bengaluru%2C%20Karnataka/23251/4/1269750-1267701-1277331-1277333/12x97194/77x59369/50/2
+  - name: Cargill  
+    careers_url: https://careers.cargill.com/en/search-jobs/India/23251/2/1269750/22/79/50/2
     render_js: true
   - name: Accenture
     careers_url: https://www.accenture.com/in-en/careers
@@ -98,7 +101,7 @@ companies:
     render_js: true
   - name: Morgan Stanley
     careers_url: https://www.morganstanley.com/careers/career-opportunities-search/
-    render_js: true
+    #render_js: true
   - name: Visa
     careers_url: https://visa.wd5.myworkdayjobs.com/Visa?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e
     render_js: true
@@ -137,7 +140,7 @@ companies:
     render_js: true
   - name: Philips
     careers_url: https://www.careers.philips.com/in/en/search-results
-    render_js: true
+    #render_js: true
   - name: Wells Fargo
     careers_url: https://www.wellsfargojobs.com/en/jobs/?search=&country=India&location=BENGALURU&pagesize=20#results
     render_js: true
@@ -154,9 +157,29 @@ companies:
     careers_url: https://www.cohesity.com/careers/open-positions/
     render_js: true
   - name: Akamai
-    careers_url: https://jobs.akamai.com/en/sites/CX_1/jobs?location=India&locationId=300000000469285&locationLevel=country&mode=location
+    careers_url: https://jobs.akamai.com/en/sites/CX_1/jobs?lastSelectedFacet=LOCATIONS&mode=location&selectedLocationsFacet=300000000469285
     render_js: true
   - name: NatWest Group
     careers_url: https://jobs.natwestgroup.com/search/jobs/in/bangalore/country/india
     render_js: true
- 
+  - name: IQVIA
+    careers_url: https://jobs.iqvia.com/en/jobs?cities=Bengaluru#job-listing
+    render_js: true
+  - name: Nielsen
+    careers_url: https://careers.smartrecruiters.com/TheNielsenCompany
+    render_js: true
+  - name: LSEG
+    careers_url: https://lseg.wd3.myworkdayjobs.com/Careers?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e
+    render_js: true
+  - name: Optum
+    careers_url: https://careers.unitedhealthgroup.com/search-jobs/India/34088/2/1269750/22/79/50/2
+    render_js: true
+  - name: Lowes
+    careers_url: https://talent.lowes.com/in/en/search-results?keywords=Software%20Engineer
+    render_js: true
+  - name: Conga
+    careers_url: https://conga.com/careers#section-greenhouse
+    render_js: true
+  - name: Athenahealth
+    careers_url: https://athenahealth.wd1.myworkdayjobs.com/External
+    render_js: true
