@@ -52,7 +52,7 @@ companies:
     careers_url: https://jobs.sap.com/
     render_js: true
   - name: Cisco
-    careers_url: https://jobs.cisco.com/
+    careers_url: https://careers.cisco.com/global/en/india#india-jobs
     render_js: true
   - name: NVIDIA
     careers_url: https://www.nvidia.com/en-in/about-nvidia/careers/
