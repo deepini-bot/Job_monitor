@@ -1,8 +1,9 @@
 # How often to check, in hours
-check_interval_hours: 3
+check_interval_hours: 1
+
 
 # Number of company careers pages to fetch concurrently
-max_concurrent_companies: 5
+max_concurrent_companies: 7
 
 # SQLite file used to remember jobs already seen
 database_path: jobs.db
@@ -184,5 +185,5 @@ companies:
     careers_url: https://athenahealth.wd1.myworkdayjobs.com/External
     render_js: true
   - name: HP
-    careers_url: https://apply.hp.com/careers?start=0&location=India&pid=28344607&sort_by=distance&filter_include_remote=1&filter_include_relocation=0
+    careers_url: https://hp.wd5.myworkdayjobs.com/ExternalCareerSite?primaryLocation=5888cbce448a1001eaab4465c76a0000&primaryLocation=336ea9b27e9910b2190cf5b2b198f6b3
     render_js: true

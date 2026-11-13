@@ -3,7 +3,7 @@ import smtplib
 from email.message import EmailMessage
 from html import escape
 
-MAX_LISTED = 50  # max jobs shown in one email
+MAX_LISTED = 200  # max jobs shown in one email
 
 
 def _settings():
