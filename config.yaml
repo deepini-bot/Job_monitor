@@ -3,7 +3,7 @@ check_interval_hours: 1
 
 
 # Number of company careers pages to fetch concurrently
-max_concurrent_companies: 7
+max_concurrent_companies: 6
 
 # SQLite file used to remember jobs already seen
 database_path: jobs.db
